@@ -46,7 +46,9 @@ navigation_header:
 - title: News
   url: /news/
 - title: Teaching
-  url: /teaching/  
+  url: /teaching/
+- title: C.A.M.P
+  url: /camp/
 # Footer nav
 navigation_footer:
 - title: Back to top
