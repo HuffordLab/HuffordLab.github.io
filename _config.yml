@@ -28,8 +28,8 @@ permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
-paginate: 5
-paginate_path: blog/page:num
+paginate: 10
+paginate_path: news/page:num
 
 # Header nav
 navigation_header:
@@ -56,10 +56,10 @@ navigation_footer:
 
 # Collections
 collections:
-  posts:
+  news:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "something catchy goes here.."
     feature_text: |
-      Welcome to my blog
+      News
     feature_image: "https://picsum.photos/2560/600?image=866"
