@@ -37,6 +37,14 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Research
+  url: /research/
+- title: Publications
+  url: /publications/
+- title: People
+  url: /people/
+- title: Programs
+  url: /programs/
 - title: Blog
   url: /blog/
 
