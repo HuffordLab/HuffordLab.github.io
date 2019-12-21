@@ -45,8 +45,6 @@ navigation_header:
   url: /people/
 - title: Programs
   url: /programs/
-- title: Blog
-  url: /blog/
 
 # Footer nav
 navigation_footer:
