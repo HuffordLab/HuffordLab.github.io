@@ -56,7 +56,7 @@ navigation_footer:
 
 # Collections
 collections:
-  news:
+  posts:
     title: Posts
     output: true
     description: "something catchy goes here.."
