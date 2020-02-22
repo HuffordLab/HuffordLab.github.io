@@ -1,9 +1,9 @@
 ---
-title: Welcome to Hufford Lab website!
+title: Welcome to the Hufford Lab Website!
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello Zea World!
+  ## Evolutionary genomics of maize and its wild relatives
 ---
 
-Matt's first demo to see if it is usable!
+Contact:  Matthew Hufford, mhufford@iastate.edu
