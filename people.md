@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lab members
+title: Lab Members
 ---
 
-I'll have to figure out adding each person through their own markdown page..
+<i>This page is in development</i>
