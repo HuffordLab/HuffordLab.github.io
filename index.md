@@ -5,6 +5,6 @@ feature_image: "https://huffordlab.github.io/pictures/maize_genetics.jpg"
 ---
 
 
-<B><font size = "5" color="maroon">Evolutionary genomics of maize and its wild relatives</b></font>
+<b><font size = "6" color="maroon">Evolutionary genomics of maize and its wild relatives</font></b>
 
 Contact:  Matthew Hufford, mhufford@iastate.edu
