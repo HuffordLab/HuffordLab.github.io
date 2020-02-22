@@ -41,8 +41,6 @@ navigation_header:
   url: /publications/
 - title: People
   url: /people/
-- title: Programs
-  url: /programs/
 - title: News
   url: /news/
 - title: Teaching
@@ -61,5 +59,5 @@ collections:
     output: true
     description: "Notable events in the Hufford Lab"
     feature_text: |
-      ## <span style="color:white">Research</span>
+      ## <span style="color:white">News</span>
     feature_image: "https://huffordlab.github.io/pictures/maize.jpg"
