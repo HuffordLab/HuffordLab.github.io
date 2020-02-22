@@ -7,7 +7,7 @@ Hufford, M.B., J.C.B.M.y Teran, P. Gepts. Crop Biodiversity: An unfinished magnu
 
 Andorf, C., W.D. Beavis, M.B. Hufford, T. Lübberstedt, S. Smith, W. Suza, K. Wang, M. Woodhouse, J. Yu. Technological advances in maize breeding: Past, present and future. Theoretical and Applied Genetics. In Press
 
-Janzen, G.M., L. Wang, M.B. Hufford. 2018. The extent of adaptive wild introgression in crops. New Phytologist. (Early View)
+Janzen, G.M., L. Wang, M.B. Hufford. 2018. <a href="https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.15457">The extent of adaptive wild introgression in crops.</a> New Phytologist. (Early View)
 
 Trujillo, J., A. Seetharam, M.B. Hufford, M. Beilstein, R. Mosher. 2018. Evidence for a unique DNA-dependent RNA polymerase in cereal crops. Molecular Biology and Evolution. 35: 2454-2462
 
