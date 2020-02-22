@@ -7,6 +7,6 @@ C.A.M.P. is a journal club during which we end our week with some libations and 
 
 Papers by date they are discussed:
 
-<b>February 21st, 2020</b>
-Zhou et al. 2019
+<b>February 21st, 2020</b><br />
+Zhou et al. 2019<br />
 <a href="https://www.cell.com/molecular-plant/pdf/S1674-2052(18)30382-4.pdf">Dynamic patterns of gene expression additivity and regulatory variation throughout maize development</a>
