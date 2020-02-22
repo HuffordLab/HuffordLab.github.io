@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'http://zeagenomics.org'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Hufford Lab'
+description: 'Evolution genomics of maize and its wild relatives'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: 
 
 # Pagination
 paginate: 5
