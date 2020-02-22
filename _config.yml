@@ -59,7 +59,7 @@ collections:
   posts:
     title: News
     output: true
-    description: "something catchy goes here.."
+    description: "Notable events in the Hufford Lab"
     feature_text: |
       News
     feature_image: "https://picsum.photos/2560/600?image=866"
