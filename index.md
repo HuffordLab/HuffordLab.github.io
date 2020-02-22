@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Hufford Lab Website!
+title: Welcome to the Hufford Lab!
 layout: page
 feature_image: "https://huffordlab.github.io/pictures/maize_genetics.jpg"
 ---
