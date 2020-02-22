@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Courses
+feature_image: "https://huffordlab.github.io/pictures/maize.jpg"
+feature_text: |
+  ## <span style="color:white">Teaching</span>
 ---
 
 <b><font size = "5">EEOB/BCB 546: Computational Skills for Biological Data</font></b>

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Publications
+feature_image: "https://huffordlab.github.io/pictures/maize.jpg"
+feature_text: |
+  ## <span style="color:white">Publications</span>
 ---
 
 <b>Hufford, M.B.</b>, J.C.B.M.y Teran, P. Gepts. Crop Biodiversity: An unfinished magnum opus of nature. Annual Review of Plant Biology. In Press
