@@ -3,21 +3,21 @@ layout: page
 title: Publications
 ---
 
-Hufford, M.B., J.C.B.M.y Teran, P. Gepts. Crop Biodiversity: An unfinished magnum opus of nature. Annual Review of Plant Biology. In Press
+<b>Hufford, M.B.</b>, J.C.B.M.y Teran, P. Gepts. Crop Biodiversity: An unfinished magnum opus of nature. Annual Review of Plant Biology. In Press
 
-Andorf, C., W.D. Beavis, M.B. Hufford, T. Lübberstedt, S. Smith, W. Suza, K. Wang, M. Woodhouse, J. Yu. Technological advances in maize breeding: Past, present and future. Theoretical and Applied Genetics. In Press
+Andorf, C., W.D. Beavis, <b>M.B. Hufford</b>, T. Lübberstedt, S. Smith, W. Suza, K. Wang, M. Woodhouse, J. Yu. Technological advances in maize breeding: Past, present and future. Theoretical and Applied Genetics. In Press
 
 <b>Janzen, G.M., L. Wang, M.B. Hufford</b>. 2018. <a href="https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.15457">The extent of adaptive wild introgression in crops.</a> New Phytologist. (Early View)
 
-Trujillo, J., A. Seetharam, M.B. Hufford, M. Beilstein, R. Mosher. 2018. Evidence for a unique DNA-dependent RNA polymerase in cereal crops. Molecular Biology and Evolution. 35: 2454-2462
+Trujillo, J., <b>A. Seetharam, M.B. Hufford</b>, M. Beilstein, R. Mosher. 2018. Evidence for a unique DNA-dependent RNA polymerase in cereal crops. Molecular Biology and Evolution. 35: 2454-2462
 
-Snodgrass, S.J., M.B. Hufford. 2018. Domestication Genomics: untangling the complex history of African rice. Current Biology. 28: R786-R788
+<b>Snodgrass, S.J., M.B. Hufford</b>. 2018. Domestication Genomics: untangling the complex history of African rice. Current Biology. 28: R786-R788
 
-Manchanda, N., S.J. Snodgrass, J. Ross-Ibarra, M.B. Hufford. 2018. Evolution and adaptation in the maize genome. In The Zea mays Genome, Bennetzen, Flint-Garcia, Hirsch, Tuberosa (Eds.), Springer Nature Publishing
+<b>Manchanda, N., S.J. Snodgrass</b>, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2018. Evolution and adaptation in the maize genome. In The Zea mays Genome, Bennetzen, Flint-Garcia, Hirsch, Tuberosa (Eds.), Springer Nature Publishing
 
-Aburto-Oropeza, O., A. D. de la Vega, A. Ortinez...M.B. Hufford...V. H. P. Figueroa, S. Dominguez, W. Mautz. 2018. Harnessing cross-border resources to confront climate change. Environmental Science and Policy. 87: 128-132
+Aburto-Oropeza, O., A. D. de la Vega, A. Ortinez...<b>M.B. Hufford</b>...V. H. P. Figueroa, S. Dominguez, W. Mautz. 2018. Harnessing cross-border resources to confront climate change. Environmental Science and Policy. 87: 128-132
 
-Wang, L., T.M. Beissinger, A. Lorant, C. Ross-Ibarra, J. Ross-Ibarra, M.B. Hufford. 2017. The interplay of demography and selection during maize domestication and expansion. Genome Biology. 18: 215
+<b>Wang, L.</b>, T.M. Beissinger, A. Lorant, C. Ross-Ibarra, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2017. The interplay of demography and selection during maize domestication and expansion. Genome Biology. 18: 215
 *Video Abstract highlighting Wang et al.’s main findings can be found here
 
 Lorant, A., S. Pedersen, I. Holst, M.B. Hufford, K. Winter, D. Piperno, J. Ross-Ibarra. 2017. The potential role of genetic assimilation during maize domestication. PLoS ONE. 12: e0184202

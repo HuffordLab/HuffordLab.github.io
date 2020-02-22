@@ -3,7 +3,7 @@ layout: page
 title: Courses
 ---
 
-<b><font size = "5">EEOB/BCB 546X: Computational Skills for Biological Data</font></b>
+<b><font size = "5">EEOB/BCB 546: Computational Skills for Biological Data</font></b>
 
 Offered: Each Fall, MWF, 1:10-2:30pm
 
