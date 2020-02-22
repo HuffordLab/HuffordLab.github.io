@@ -3,17 +3,17 @@ layout: page
 title: Courses
 ---
 
-<b>EEOB/BCB 546X: Computational Skills for Biological Data</b>
+<b><font size = "5">EEOB/BCB 546X: Computational Skills for Biological Data</font></b>
 
-Offered: Fall, WF, 1:10-2:30pm (offered each Fall, thereafter)
+Offered: Each Fall, MWF, 1:10-2:30pm
 
 Overview of Course:
 
 With the advent of big data across a number of sub-disciplines within biology, there is an increasing need for biologists to be comfortable and competent with command-line data processing and analysis. This course will develop basic skills necessary for biologists working with big data sets. Topics will include UNIX commands, scripting in R and Python, version control using Git and GitHub, use of high performance computing clusters, and writing effective data-management plans. These topics will be taught using a combination of lectures and computational exercises.
 
-<b>EEOB 561: Evolutionary and Ecological Genomics</b>
+<b><font size = "5">EEOB 561: Evolutionary and Ecological Genomics</font></b>
 
-Offered: Alternate Springs. Next offering, Spring 2020
+Offered: Alternate Springs, Even-numbered years, WF, 1:10-2:30pm
 
 Overview of Course:
 
