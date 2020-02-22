@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Research
+feature_image: "https://huffordlab.github.io/pictures/maize_genetics.jpg"
+feature_text: |
+  ## <span style="color:white">Research in the Hufford Lab</span>
 ---
 
 
