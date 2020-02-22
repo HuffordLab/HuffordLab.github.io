@@ -1,9 +1,9 @@
 ---
 title: Welcome to the Hufford Lab Website!
 layout: page
-feature_image: "https://huffordlab.github.io/pictures/maize.jpg"
+feature_image: "https://huffordlab.github.io/pictures/maize_genetics.jpg"
 feature_text: |
-  ## <span style="color:white">Evolutionary genomics of maize and its wild relatives</span>
+  ## <span style="color:gold">Evolutionary genomics of maize and its wild relatives</span>
 ---
 
 Contact:  Matthew Hufford, mhufford@iastate.edu
