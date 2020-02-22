@@ -2,7 +2,7 @@
 layout: page
 feature_image: "https://huffordlab.github.io/pictures/maize.jpg"
 feature_text: |
-  ## <span style="color:white">Research in the Hufford Lab</span>
+  ## <span style="color:white">Research</span>
 ---
 
 
