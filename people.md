@@ -5,6 +5,7 @@ title: Lab Members
 
 <i>This page is in development</i>
 
+<b>Matthew Hufford, Associate Professor</b>: <br>
+Matt joined the faculty of the Ecology, Evolution, & Organismal Biology Department at Iowa State University in Fall of 2013. Prior to this, Matt worked as a postdoctoral scholar with Jeff Ross-Ibarra at the University of California, Davis and completed his graduate training, also at UC Davis, under the instruction of Paul Gepts. Matt is a bona fide maize geek, is fascinated by crop evolution and ecology, and has a nasty marathoning habit.
 
-{% include figure.html image="https://huffordlab.github.io/pictures/Matt.jpg" position="right" caption="<b>Matthew Hufford, Associate Professor</b>: <br>
-Matt joined the faculty of the Ecology, Evolution, & Organismal Biology Department at Iowa State University in Fall of 2013. Prior to this, Matt worked as a postdoctoral scholar with Jeff Ross-Ibarra at the University of California, Davis and completed his graduate training, also at UC Davis, under the instruction of Paul Gepts. Matt is a bona fide maize geek, is fascinated by crop evolution and ecology, and has a nasty marathoning habit." %}
+{% include figure.html image="https://huffordlab.github.io/pictures/Matt.jpg" position="right" %}
