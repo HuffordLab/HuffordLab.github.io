@@ -25,6 +25,7 @@ Michael comes to the maize genomics world from a diverse research background in 
 <b><a href="http://www.theburkelab.org/publications/">Garrett Janzen</a></b>, Postdoctoral Scholar at the University of Georgia <br>
 <b>David Hufnagel</b>, Bioinformatician at USDA-NADC<br>
 <b><a href="http://agis.caas.cn/en/index.htm">Li Wang</a></b>, Faculty Member at the CAAS Agricultural Genomics Institute in Shenzhen, China<br>
+<br>
 
 <b><u>Collaborators</u></b>:<br>
 <b><a href="https://www.maizegenetics.net">Ed Buckler</a></b>, USDA-ARS, Cornell University<br>
