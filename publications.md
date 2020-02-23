@@ -22,7 +22,7 @@ Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. So
 
 Wang, B., Z. Lin, X. Li, Y. Zhao...J. Lai, <b>M.B. Hufford</b>, J. Ross-Ibarra, H. He, H. Wang. 2020. Genome-wide selection and genetic improvement during modern maize breeding. <i>Nature Genetics</i> In Press
 
-Coffman, S.M., <b>M.B. Hufford</b>, C.M. Andorf, T. Lübberstedt. Haplotype structure in commercial maize breeding programs in relation to key founder lines. 2019. <i>Theoretical and Applied Genetics</i> Early online edition: doi: https://doi.org/10.1007/s00122-019-03486-y
+Coffman, S.M., <b>M.B. Hufford</b>, C.M. Andorf, T. Lübberstedt. <a href="https://link.springer.com/article/10.1007%2Fs00122-019-03486-y">Haplotype structure in commercial maize breeding programs in relation to key founder lines</a>. 2020. <i>Theoretical and Applied Genetics</i> 133: 547-561
 
 <b>Ou, S.</b>, W. Su, Y. Liao, K. Chougule, J.R.A. Agda, A.J. Hellinga, C. Santiago Blanco Lugo, D. Ware, T. Peterson, N. Jiang, C.N. Hirsch, <b>M.B. Hufford</b>. 2019. Benchmarking Transposable Element Annotation Methods for Creation of a Streamlined, Comprehensive Pipeline. <i>Genome Biology</i> 20: 275
 
