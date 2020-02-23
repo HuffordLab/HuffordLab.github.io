@@ -23,7 +23,7 @@ plugins:
 url: 'http://zeagenomics.org'
 baseurl: ''
 title: 'Hufford Lab'
-description: 'Evolution genomics of maize and its wild relatives'
+description: 'Evolutionary genomics of maize and its wild relatives'
 permalink: pretty
 logo: 
 
