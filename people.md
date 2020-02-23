@@ -18,7 +18,7 @@ Michael comes to the maize genomics world from a diverse research background in 
 <p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Shujunred.jpg" align="right"><font size="3"><b>Shujun Ou, Postdoctoral Scholar</b>: <br> Shujun joined the Hufford lab in the Spring of 2019. He obtained a PhD in Plant Genetics and Evolution from Michigan State University under the instruction of Ning Jiang. Shujun is interested in transposable elements and population genetics. He is working to understand the functional and adaptive significance of TEs during the evolution of plants, primarily in crop species. Rice and maize are his favorite systems. Shujun's additional interests include (ice-)fishing, volleyball, badminton, outdoor activities, and cooking.</font></p>
 <br>
 
-<font size="5"><b><u>Alumni</u></b>:<br></font>
+<p style="line-height:1.5"><font size="5"><b><u>Alumni</u></b>:<br></font>
 <font size="3"><b>Lucas Roberts</b>, Graduate Student at the University of Illinois<br>
 <b><a href="https://www.maizegenetics.net/aimeeschulz">Aimee Schulz</a></b>, Graduate Student at Cornell University<br>
 <b><a href="https://www.linkedin.com/in/kathryn-kananen-85352b109">Kathryn Kananen</a></b>, Graduate Student at Cranfield University <br>
@@ -39,4 +39,4 @@ Michael comes to the maize genomics world from a diverse research background in 
 <b><a href="https://runcielab.ucdavis.edu">Daniel Runcie</a></b>, University of California, Davis<br>
 <b><a href="https://plantscience.psu.edu/directory/rjs6686">Ruairidh Sawers</a></b>, Penn State University<br>
 <b><a href="http://siepellab.labsites.cshl.edu/">Adam Siepel</a></b>, Cold Spring Harbor Laboratory<br>
-<b><a href="http://www.warelab.org/">Doreen Ware</a></b>, USDA-ARS, Cold Spring Harbor Laboratory<br></font>
+<b><a href="http://www.warelab.org/">Doreen Ware</a></b>, USDA-ARS, Cold Spring Harbor Laboratory<br></font></p>
