@@ -15,4 +15,3 @@ Department of Ecology, Evolution, and Organismal Biology<br>
 Ames, IA 50011<br>
 email: mhufford@iastate.edu<br>
 phone: 515-294-8511<br>
-{% include nav-share.html Twitter: "#1DA1F2" %}
