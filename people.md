@@ -20,21 +20,21 @@ Michael comes to the maize genomics world from a diverse research background in 
 <font size="3"><b><u>Alumni</u></b>:<br>
 <b>Lucas Roberts</b>, Graduate Student at the University of Illinois<br>
 <b><a href="https://www.maizegenetics.net/aimeeschulz">Aimee Schulz</a></b>, Graduate Student at Cornell University<br>
-<b><a href="https://www.linkedin.com/in/kathryn-kananen-85352b109">Kathryn Kananen</b></a>, Graduate Student at Cranfield University <br>
-<b><a href="https://www.linkedin.com/in/kelsey-bryant-8b468112a">Kelsey Bryant</b></a>, Scientist at Integrated DNA Technologies<br>
-<b><a href="http://www.theburkelab.org/publications/">Garrett Janzen</b></a>, Postdoctoral Scholar at the University of Georgia <br>
+<b><a href="https://www.linkedin.com/in/kathryn-kananen-85352b109">Kathryn Kananen</a></b>, Graduate Student at Cranfield University <br>
+<b><a href="https://www.linkedin.com/in/kelsey-bryant-8b468112a">Kelsey Bryant</a></b>, Scientist at Integrated DNA Technologies<br>
+<b><a href="http://www.theburkelab.org/publications/">Garrett Janzen</a></b>, Postdoctoral Scholar at the University of Georgia <br>
 <b>David Hufnagel</b>, Bioinformatician at USDA-NADC<br>
-<b><a href="http://agis.caas.cn/en/index.htm">Li Wang</b></a>, Faculty Member at the CAAS Agricultural Genomics Institute in Shenzhen, China<br>
+<b><a href="http://agis.caas.cn/en/index.htm">Li Wang</a></b>, Faculty Member at the CAAS Agricultural Genomics Institute in Shenzhen, China<br>
 
 <b><u>Collaborators</u></b>:<br>
-<b><a href="https://www.maizegenetics.net">Ed Buckler</b></a>, USDA-ARS, Cornell University<br>
-<b><a href="https://gcbias.org">Graham Coop</b></a>, University of California, Davis<br>
-<b><a href="https://www.dawelab.org">Kelly Dawe</b></a>, University of Georgia, Athens<br>
-<b><a href="http://web.missouri.edu/~flint-garcias/">Sherry Flint-Garcia</b></a>, USDA-ARS, University of Missouri<br>
-<b><a href="http://kellogglab.weebly.com/people.html">Toby Kellogg</b></a>, Donald Danforth Plant Science Center<br>
-<b><a href="https://www.rrlab.org">Rubén Rellán-Álvarez</b></a>, NC State University<br>
-<b><a href="https://www.rilab.org">Jeffrey Ross-Ibarra</b></a>, University of California, Davis<br>
-<b><a href="https://runcielab.ucdavis.edu">Daniel Runcie</b></a>, University of California, Davis<br>
-<b><a href="https://plantscience.psu.edu/directory/rjs6686">Ruairidh Sawers</b></a>, Penn State University<br>
-<b><a href="http://siepellab.labsites.cshl.edu/">Adam Siepel</b></a>, Cold Spring Harbor Laboratory<br>
-<b><a href="http://www.warelab.org/">Doreen Ware</b></a>, USDA-ARS, Cold Spring Harbor Laboratory<br></font>
+<b><a href="https://www.maizegenetics.net">Ed Buckler</a></b>, USDA-ARS, Cornell University<br>
+<b><a href="https://gcbias.org">Graham Coop</a></b>, University of California, Davis<br>
+<b><a href="https://www.dawelab.org">Kelly Dawe</a></b>, University of Georgia, Athens<br>
+<b><a href="http://web.missouri.edu/~flint-garcias/">Sherry Flint-Garcia</a></b>, USDA-ARS, University of Missouri<br>
+<b><a href="http://kellogglab.weebly.com/people.html">Toby Kellogg</a></b>, Donald Danforth Plant Science Center<br>
+<b><a href="https://www.rrlab.org">Rubén Rellán-Álvarez</a></b>, NC State University<br>
+<b><a href="https://www.rilab.org">Jeffrey Ross-Ibarra</a></b>, University of California, Davis<br>
+<b><a href="https://runcielab.ucdavis.edu">Daniel Runcie</a></b>, University of California, Davis<br>
+<b><a href="https://plantscience.psu.edu/directory/rjs6686">Ruairidh Sawers</a></b>, Penn State University<br>
+<b><a href="http://siepellab.labsites.cshl.edu/">Adam Siepel</a></b>, Cold Spring Harbor Laboratory<br>
+<b><a href="http://www.warelab.org/">Doreen Ware</a></b>, USDA-ARS, Cold Spring Harbor Laboratory<br></font>
