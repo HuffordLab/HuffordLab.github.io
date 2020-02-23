@@ -55,7 +55,6 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: News
     output: true
     description: "Notable events in the Hufford Lab"
     feature_text: |
