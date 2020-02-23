@@ -18,7 +18,7 @@ Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. So
 
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
-<b>Manchanda., N.</b>, J.L. Portwood, II, M.R. Woodhouse, <b>A.S. Seetharam</b>, C.M. Andorf, M.B. Hufford. 2020. GenomeQC: A quality assessment tool for genome assemblies and gene annotations. <i>BMC Genomics</i> In Press
+<b>Manchanda., N.</b>, J.L. Portwood, II, M.R. Woodhouse, <b>A.S. Seetharam</b>, C.M. Andorf, <b>M.B. Hufford</b>. 2020. GenomeQC: A quality assessment tool for genome assemblies and gene annotations. <i>BMC Genomics</i> In Press [<a href="https://www.biorxiv.org/content/10.1101/795237v2">preprint</a>]
 
 Wang, B., Z. Lin, X. Li, Y. Zhao...J. Lai, <b>M.B. Hufford</b>, J. Ross-Ibarra, H. He, H. Wang. 2020. Genome-wide selection and genetic improvement during modern maize breeding. <i>Nature Genetics</i> In Press
 
