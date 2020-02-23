@@ -56,7 +56,7 @@ navigation_footer:
 collections:
   posts:
     output: true
-    description: "Notable events in the Hufford Lab"
+    description: "<b>Notable events in the Hufford Lab</b>"
     feature_text: |
       ## <span style="color:white">News</span>
     feature_image: "https://huffordlab.github.io/pictures/maize.jpg"
