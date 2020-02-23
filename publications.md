@@ -59,29 +59,29 @@ Beissinger, T. M., <b>L. Wang</b>, K. Crosby, A. Durvasula, <b>M.B. Hufford</b>,
 
 Sexton, J. P., <b>M. B. Hufford</b>, A. C. Bateman, D. B. Lowry, H. Meimberg, S. Y. Strauss, K. J. Rice. 2016. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13528">Climate structures genetic variation across a species’ elevation range: a test of range limits hypotheses</a>. <i>Molecular Ecology</i> 25: 911-928
 
-Takuno, S., P. Ralph, K. Swarts, R. J. Elshire, J. C. Glaubitz, E. S. Buckler, <b>M. B. Hufford</b>, J. Ross-Ibarra. 2015. Independent molecular basis of convergent highland adaptation in maize. <i>Genetics</i> 200: 1297-312
+Takuno, S., P. Ralph, K. Swarts, R. J. Elshire, J. C. Glaubitz, E. S. Buckler, <b>M. B. Hufford</b>, J. Ross-Ibarra. 2015. <a href="https://www.genetics.org/content/200/4/1297.long">Independent molecular basis of convergent highland adaptation in maize</a>. <i>Genetics</i> 200: 1297-312
 
-Vann L. E., T. Kono, T. Pyhäjärvi, <b>M. B. Hufford</b>, J. Ross-Ibarra. 2015. Natural variation in teosinte at the domestication locus teosinte branched1 (tb1). <i>PeerJ</i> 3: e900
+Vann L. E., T. Kono, T. Pyhäjärvi, <b>M. B. Hufford</b>, J. Ross-Ibarra. 2015. <a href="https://peerj.com/articles/900/">Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)</a>. <i>PeerJ</i> 3: e900
 
-Fonseca R. R., B. Smith, N. Wales, E. Cappellini, P. Skoglund, M. Fumagalli, J. A. Samaniego, C. Carøe, M. C. Avila-Arcos, <b>D. E. Hufnagel</b>, T.S. Korneliussen, F.G. Vieira, M. Jakobsson, B. Arriaza, E. Willerslev, R. Nielsen, <b>M. B. Hufford</b>, A. Albrechtsen, J. Ross-Ibarra, M. T. Gilbert. 2015. The origin and evolution of maize in the Southwestern United States. <i>Nature Plants</i> 1: Article Number 14003
+Fonseca R. R., B. Smith, N. Wales, E. Cappellini, P. Skoglund, M. Fumagalli, J. A. Samaniego, C. Carøe, M. C. Avila-Arcos, <b>D. E. Hufnagel</b>, T.S. Korneliussen, F.G. Vieira, M. Jakobsson, B. Arriaza, E. Willerslev, R. Nielsen, <b>M. B. Hufford</b>, A. Albrechtsen, J. Ross-Ibarra, M. T. Gilbert. 2015. <a href="https://www.nature.com/articles/nplants20143">The origin and evolution of maize in the Southwestern United States</a>. <i>Nature Plants</i> 1: Article Number 14003
 
-Pyhäjärvi T., <b>Hufford M.B.</b>, Mezmouk S., Ross-Ibarra J. 2013. Complex patterns of local adaptation in teosinte. <i>Genome Biology and Evolution</i> 5: 1594-1609
+Pyhäjärvi T., <b>Hufford M.B.</b>, Mezmouk S., Ross-Ibarra J. 2013. <a href="https://academic.oup.com/gbe/article/5/9/1594/554217">Complex patterns of local adaptation in teosinte</a>. <i>Genome Biology and Evolution</i> 5: 1594-1609
 
-Hufford, M. B., P. Lubinsky, T. Pyhäjärvi, M. T. Devengenzo, N. C. Ellstrand, J. Ross-Ibarra. 2013. The genomic signature of crop-wild introgression in maize. <i>PLoS Genetics</i> 9: e1003477
+Hufford, M. B., P. Lubinsky, T. Pyhäjärvi, M. T. Devengenzo, N. C. Ellstrand, J. Ross-Ibarra. 2013. <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003477">The genomic signature of crop-wild introgression in maize</a>. <i>PLoS Genetics</i> 9: e1003477
 
-Kanizay, L. B., T. Pyhäjärvi, E. G. Lowry, M. B. Hufford, D. G. Peterson, J. Ross-Ibarra, R. K. Dawe. 2013. Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in Zea mays. <i>Heredity</i> 110: 570-577
+Kanizay, L. B., T. Pyhäjärvi, E. G. Lowry, M. B. Hufford, D. G. Peterson, J. Ross-Ibarra, R. K. Dawe. 2013. <a href="https://www.nature.com/articles/hdy20132">Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in Zea mays</a>. <i>Heredity</i> 110: 570-577
 
-Hufford, M. B., E. Martínez-Meyer, B. S. Gaut, L. E. Eguiarte, and M. I. Tenaillon. 2012. Inferences from the historical distribution of wild and domesticated maize provide ecological and evolutionary insight. <i>PLoS ONE</i> 7: e47659
+Hufford, M. B., E. Martínez-Meyer, B. S. Gaut, L. E. Eguiarte, and M. I. Tenaillon. 2012. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047659">Inferences from the historical distribution of wild and domesticated maize provide ecological and evolutionary insight</a>. <i>PLoS ONE</i> 7: e47659
 
-Hufford, M. B., P. Bilinski, T. Pyhäjärvi, J. Ross-Ibarra. 2012. Teosinte as a model system for population and ecological genomics. <i>Trends in Genetics</i> 28: 606-615
+Hufford, M. B., P. Bilinski, T. Pyhäjärvi, J. Ross-Ibarra. 2012. <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(12)00139-4">Teosinte as a model system for population and ecological genomics</a>. <i>Trends in Genetics</i> 28: 606-615
 
-van Heerwaarden, M. B. Hufford, and J. Ross-Ibarra. 2012. Historical genomics of North American maize. <i>Proceedings of the National Academy of Sciences of the United States of America</i> 109: 12420-12425
+van Heerwaarden, M. B. Hufford, and J. Ross-Ibarra. 2012. <a href="https://www.pnas.org/content/109/31/12420.long">Historical genomics of North American maize</a>. <i>Proceedings of the National Academy of Sciences of the United States of America</i> 109: 12420-12425
 
-Hufford, M. B., X. Xu, J. van Heerwaarden, T. Pyhäjärvi, J.-M. Chia, R. A. Cartwright, R. J. Elshire,J. C. Glaubitz, K. E. Guill, S. Kaeppler, J. Lai, P. L. Morrell, L. M. Shannon, C. Song, N. M. Springer, R. A. Swanson-Wagner, P. Tiffin, J. Wang, G. Zhang, J. Doebley, M. D. McMullen, E. S. Buckler, D. Ware, S. Yang, and J. Ross-Ibarra. 2012. Comparative population genomics of maize domestication and improvement. <i>Nature Genetics</i> 44: 808-811
+Hufford, M. B., X. Xu, J. van Heerwaarden, T. Pyhäjärvi, J.-M. Chia, R. A. Cartwright, R. J. Elshire,J. C. Glaubitz, K. E. Guill, S. Kaeppler, J. Lai, P. L. Morrell, L. M. Shannon, C. Song, N. M. Springer, R. A. Swanson-Wagner, P. Tiffin, J. Wang, G. Zhang, J. Doebley, M. D. McMullen, E. S. Buckler, D. Ware, S. Yang, and J. Ross-Ibarra. 2012. <a href="https://www.nature.com/articles/ng.2309">Comparative population genomics of maize domestication and improvement</a>. <i>Nature Genetics</i> 44: 808-811
 
-Chia J.-M., C. Song, P. Bradbury, D. Costich, N. de Leon, J. Doebley, R. Elshire, B. Gaut, L. Geller, J. Glaubitz, M. Gore, K. Guill, J. Holland, M. B. Hufford, J. Lai, M. Li, X. Liu, Y. Lu, W. McCombie, R. Nelson, J. Poland, B. M. Prasanna, T. Pyhäjärvi, T. Rong, R. Sekhon, Q. Sun, M. Tenaillon, F. Tian, J. Wang, X. Xu, Z. Zhang, S. Kaeppler, J. Ross-Ibarra, M. D. McMullen, E. Buckler, G. Zhang, Y. Xu, and D. Ware. 2012. Maize HapMap2 identifies extant variation from a genome in flux. <i>Nature Genetics</i> 44: 803-807
+Chia J.-M., C. Song, P. Bradbury, D. Costich, N. de Leon, J. Doebley, R. Elshire, B. Gaut, L. Geller, J. Glaubitz, M. Gore, K. Guill, J. Holland, M. B. Hufford, J. Lai, M. Li, X. Liu, Y. Lu, W. McCombie, R. Nelson, J. Poland, B. M. Prasanna, T. Pyhäjärvi, T. Rong, R. Sekhon, Q. Sun, M. Tenaillon, F. Tian, J. Wang, X. Xu, Z. Zhang, S. Kaeppler, J. Ross-Ibarra, M. D. McMullen, E. Buckler, G. Zhang, Y. Xu, and D. Ware. 2012. <a href="https://www.nature.com/articles/ng.2313">Maize HapMap2 identifies extant variation from a genome in flux</a>. <i>Nature Genetics</i> 44: 803-807
 
-Swanson-Wagner, R., R. Briskine, R. Schaefer, M. B. Hufford, J. Ross-Ibarra, C. L. Myers, P. Tiffin, and N. M. Springer. 2012. Reshaping of the maize transcriptome by domestication. <i>Proceedings of the National Academy of Sciences of the United States of America</i> 109: 11878-11883
+Swanson-Wagner, R., R. Briskine, R. Schaefer, M. B. Hufford, J. Ross-Ibarra, C. L. Myers, P. Tiffin, and N. M. Springer. 2012. <a href="https://www.pnas.org/content/109/29/11878">Reshaping of the maize transcriptome by domestication</a>. <i>Proceedings of the National Academy of Sciences of the United States of America</i> 109: 11878-11883
 
 Hufford, M. B., P. Gepts, and J. Ross-Ibarra. 2011. Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (Zea mays ssp. parviglumis). <i>Molecular Ecology</i> 20: 46-55
 
