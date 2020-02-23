@@ -16,3 +16,25 @@ Matt joined the faculty of the Ecology, Evolution, & Organismal Biology Departme
 Michael comes to the maize genomics world from a diverse research background in human genetics, proteomics, and personalized medicine. With a degree in Biotechnology/Chemistry from the University of Northern Iowa, Michael will assist on current research projects, while managing students and day-to-day laboratory activities. Michael's interests in the lab also extend to bioinformatics and data analysis. Outside the lab Michael enjoys rock climbing, running, and baseball, and doing all these activities with his wife and kids.</font></p>
 
 <p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Shujunred.jpg" align="right"><font size="3"><b>Shujun Ou, Postdoctoral Scholar</b>: <br> Shujun joined the Hufford lab in the Spring of 2019. He obtained a PhD in Plant Genetics and Evolution from Michigan State University under the instruction of Ning Jiang. Shujun is interested in transposable elements and population genetics. He is working to understand the functional and adaptive significance of TEs during the evolution of plants, primarily in crop species. Rice and maize are his favorite systems. Shujun's additional interests include (ice-)fishing, volleyball, badminton, outdoor activities, and cooking.</font></p>
+
+<font size="3"><b><u>Alumni</u></b>:<br>
+<b>Lucas Roberts</b>, Graduate Student at the University of Illinois<br>
+<b><a href="https://www.maizegenetics.net/aimeeschulz">Aimee Schulz</b></a>, Graduate Student at Cornell University<br>
+<b><a href="<b><a href="https://www.linkedin.com/in/kathryn-kananen-85352b109">Kathryn Kananen</b></a>, Graduate Student at Cranfield University <br>
+<b><a href="https://www.linkedin.com/in/kelsey-bryant-8b468112a">Kelsey Bryant</b></a>, Scientist at Integrated DNA Technologies<br>
+<b><a href="http://www.theburkelab.org/publications/">Garrett Janzen</b></a>, Postdoctoral Scholar at the University of Georgia <br>
+<b>David Hufnagel</b>, Bioinformatician at USDA-NADC<br>
+<b><a href="http://agis.caas.cn/en/index.htm">Li Wang</b></a>, Faculty Member at the CAAS Agricultural Genomics Institute in Shenzhen, China<br>
+
+<b><u>Collaborators</u></b>:<br>
+<b><a href="https://www.maizegenetics.net">Ed Buckler</b></a>, USDA-ARS, Cornell University<br>
+<b><a href="https://gcbias.org">Graham Coop</b></a>, University of California, Davis<br>
+<b><a href="https://www.dawelab.org">Kelly Dawe</b></a>, University of Georgia, Athens<br>
+<b><a href="http://web.missouri.edu/~flint-garcias/">Sherry Flint-Garcia</b></a>, USDA-ARS, University of Missouri<br>
+<b><a href="http://kellogglab.weebly.com/people.html">Toby Kellogg</b></a>, Donald Danforth Plant Science Center<br>
+<b><a href="https://www.rrlab.org">Rubén Rellán-Álvarez</b></a>, NC State University<br>
+<b><a href="https://www.rilab.org">Jeffrey Ross-Ibarra</b></a>, University of California, Davis<br>
+<b><a href="https://runcielab.ucdavis.edu">Daniel Runcie</b></a>, University of California, Davis<br>
+<b><a href="https://plantscience.psu.edu/directory/rjs6686">Ruairidh Sawers</b></a>, Penn State University<br>
+<b><a href="http://siepellab.labsites.cshl.edu/">Adam Siepel</b></a>, Cold Spring Harbor Laboratory<br>
+<b><a href="http://www.warelab.org/">Doreen Ware</b></a>, USDA-ARS, Cold Spring Harbor Laboratory<br></font>
