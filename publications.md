@@ -36,16 +36,16 @@ Andorf, C., W.D. Beavis, <b>M.B. Hufford</b>, T. Lübberstedt, S. Smith, W. Suza
 
 <b>Janzen, G.M., L. Wang, M.B. Hufford</b>. 2019. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15457">The Extent of Adaptive Wild Introgression in Crops</a>. <i>New Phytologist</i> 221: 1279-1288
 
-Trujillo, J., <b>A. Seetharam, M.B. Hufford</b>, M. Beilstein, R. Mosher. 2018. Evidence for a unique DNA-dependent RNA polymerase in cereal crops. <i>Molecular Biology and Evolution</i> 35: 2454-2462
+Trujillo, J., <b>A. Seetharam, M.B. Hufford</b>, M. Beilstein, R. Mosher. 2018. <a href="https://academic.oup.com/mbe/article/35/10/2454/5058059">Evidence for a unique DNA-dependent RNA polymerase in cereal crops</a>. <i>Molecular Biology and Evolution</i> 35: 2454-2462
 
-<b>Snodgrass, S.J., M.B. Hufford</b>. 2018. Domestication Genomics: untangling the complex history of African rice. <i>Current Biology</i> 28: R786-R788
+<b>Snodgrass, S.J., M.B. Hufford</b>. 2018. <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(18)30708-5">Domestication Genomics: untangling the complex history of African rice</a>. <i>Current Biology</i> 28: R786-R788
 
 <b>Manchanda, N., S.J. Snodgrass</b>, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2018. Evolution and adaptation in the maize genome. In The Zea mays Genome, Bennetzen, Flint-Garcia, Hirsch, Tuberosa (Eds.), Springer Nature Publishing
 
-Aburto-Oropeza, O., A. D. de la Vega, A. Ortinez...<b>M.B. Hufford</b>...V. H. P. Figueroa, S. Dominguez, W. Mautz. 2018. Harnessing cross-border resources to confront climate change. <i>Environmental Science and Policy</i> 87: 128-132
+Aburto-Oropeza, O., A. D. de la Vega, A. Ortinez...<b>M.B. Hufford</b>...V. H. P. Figueroa, S. Dominguez, W. Mautz. 2018. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1462901117310602">Harnessing cross-border resources to confront climate change</a>. <i>Environmental Science and Policy</i> 87: 128-132
 
-<b>Wang, L.</b>, T.M. Beissinger, A. Lorant, C. Ross-Ibarra, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2017. The interplay of demography and selection during maize domestication and expansion. <i>Genome Biology</i> 18: 215
-*Video Abstract highlighting Wang et al.’s main findings can be found here
+<b>Wang, L.</b>, T.M. Beissinger, A. Lorant, C. Ross-Ibarra, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2017. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4">The interplay of demography and selection during maize domestication and expansion</a>. <i>Genome Biology</i> 18: 215<br>
+*Video Abstract highlighting Wang et al.’s main findings can be found <a href="https://www.youtube.com/watch?reload=9&v=KgIUGHEZ2nM">here</a>
 
 Lorant, A., <b>S. Pedersen</b>, I. Holst, <b>M.B. Hufford</b>, K. Winter, D. Piperno, J. Ross-Ibarra. 2017. The potential role of genetic assimilation during maize domestication. <i>PLoS ONE</i> 12: e0184202
 
