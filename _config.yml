@@ -45,7 +45,7 @@ navigation_header:
   url: /news/
 - title: Teaching
   url: /teaching/
-- title: C.A.M.P
+- title: C.A.M.P.
   url: /camp/
 # Footer nav
 navigation_footer:
