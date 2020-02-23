@@ -19,8 +19,8 @@ Michael comes to the maize genomics world from a diverse research background in 
 
 <font size="3"><b><u>Alumni</u></b>:<br>
 <b>Lucas Roberts</b>, Graduate Student at the University of Illinois<br>
-<b><a href="https://www.maizegenetics.net/aimeeschulz">Aimee Schulz</b></a>, Graduate Student at Cornell University<br>
-<b><a href="<b><a href="https://www.linkedin.com/in/kathryn-kananen-85352b109">Kathryn Kananen</b></a>, Graduate Student at Cranfield University <br>
+<b><a href="https://www.maizegenetics.net/aimeeschulz">Aimee Schulz</a></b>, Graduate Student at Cornell University<br>
+<b><a href="https://www.linkedin.com/in/kathryn-kananen-85352b109">Kathryn Kananen</b></a>, Graduate Student at Cranfield University <br>
 <b><a href="https://www.linkedin.com/in/kelsey-bryant-8b468112a">Kelsey Bryant</b></a>, Scientist at Integrated DNA Technologies<br>
 <b><a href="http://www.theburkelab.org/publications/">Garrett Janzen</b></a>, Postdoctoral Scholar at the University of Georgia <br>
 <b>David Hufnagel</b>, Bioinformatician at USDA-NADC<br>
