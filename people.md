@@ -5,7 +5,7 @@ title: Lab Members
 
 <i>This page is in development</i>
 
-{% include figure.html image="https://huffordlab.github.io/pictures/Lab_maize.jpg" caption="Hufford Lab taking on the Pumpkinville Corn Maize" position="center" %}
+{% include figure.html image="https://huffordlab.github.io/pictures/Lab_maize.jpg" caption="Hufford Lab taking on the Pumpkinville Corn Maze" position="center" %}
 
 
 <p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Matt.jpg" align="right"><font size="3"><b>Matthew Hufford, Associate Professor</b>: <br>
