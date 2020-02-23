@@ -83,20 +83,20 @@ Chia J.-M., C. Song, P. Bradbury, D. Costich, N. de Leon, J. Doebley, R. Elshire
 
 Swanson-Wagner, R., R. Briskine, R. Schaefer, M. B. Hufford, J. Ross-Ibarra, C. L. Myers, P. Tiffin, and N. M. Springer. 2012. <a href="https://www.pnas.org/content/109/29/11878">Reshaping of the maize transcriptome by domestication</a>. <i>Proceedings of the National Academy of Sciences of the United States of America</i> 109: 11878-11883
 
-Hufford, M. B., P. Gepts, and J. Ross-Ibarra. 2011. Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (Zea mays ssp. parviglumis). <i>Molecular Ecology</i> 20: 46-55
+Hufford, M. B., P. Gepts, and J. Ross-Ibarra. 2011. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-294X.2010.04924.x">Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (Zea mays ssp. parviglumis)</a>. <i>Molecular Ecology</i> 20: 46-55
 
-Tenaillon, M. I., M. B. Hufford, B. S. Gaut, and J. Ross-Ibarra. 2011. Genome size and TE content as determined by high-throughput sequencing in maize and Zea luxurians. <i>Genome Biology and Evolution</i> 3: 219-229
+Tenaillon, M. I., M. B. Hufford, B. S. Gaut, and J. Ross-Ibarra. 2011. <a href="https://academic.oup.com/gbe/article/doi/10.1093/gbe/evr008/576621">Genome size and TE content as determined by high-throughput sequencing in maize and Zea luxurians</a>. <i>Genome Biology and Evolution</i> 3: 219-229
 
-Epanchin-Niell, R., M. B. Hufford, C. E. Aslan, J. P. Sexton, J. D. Port, and T. M. Waring. 2010. Controlling invasive species in complex social landscapes. <i>Frontiers in Ecology and the Environment</i> 8: 210-216
+Epanchin-Niell, R., M. B. Hufford, C. E. Aslan, J. P. Sexton, J. D. Port, and T. M. Waring. 2010. <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/090029">Controlling invasive species in complex social landscapes</a>. <i>Frontiers in Ecology and the Environment</i> 8: 210-216
 
 Gepts P., M. Hufford, and K. Kraft. 2010. Domestication of plants. In: Encyclopedia of Geography (B. Warf, editor). SAGE Publications, Thousand Oaks, CA
 
-Aslan, C. E., M. B. Hufford, R. S. Epanchin-Niell, J. D. Port, J. P. Sexton, and T. M. Waring. 2009. Practical challenges in private stewardship of rangeland ecosystems: yellow starthistle control in Sierra Nevadan foothills. <i>Rangeland Ecology and Management</i> 62: 28-37
+Aslan, C. E., M. B. Hufford, R. S. Epanchin-Niell, J. D. Port, J. P. Sexton, and T. M. Waring. 2009. <a href="https://bioone.org/journals/Rangeland-Ecology-and-Management/volume-62/issue-1/07-123/Practical-Challenges-in-Private-Stewardship-of-Rangeland-Ecosystems--Yellow/10.2111/07-123.short">Practical challenges in private stewardship of rangeland ecosystems: yellow starthistle control in Sierra Nevadan foothills</a>. <i>Rangeland Ecology and Management</i> 62: 28-37
 
-Piñeyro-Nelson, A., J. van Heerwaarden, H. R. Perales, A. Serratos-Hernández, A. Rangel, M. B. Hufford, P. Gepts, A. Garay-Arroyo, R. Rivera-Bustamante, and E. R. Álvarez-Buylla. 2009. Transgenes in Mexican maize: molecular evidence and methodological considerations for GMO detection in landrace populations. <i>Molecular Ecology</i> 18: 750-761
+Piñeyro-Nelson, A., J. van Heerwaarden, H. R. Perales, A. Serratos-Hernández, A. Rangel, M. B. Hufford, P. Gepts, A. Garay-Arroyo, R. Rivera-Bustamante, and E. R. Álvarez-Buylla. 2009. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3001031/">Transgenes in Mexican maize: molecular evidence and methodological considerations for GMO detection in landrace populations</a>. <i>Molecular Ecology</i> 18: 750-761
 
-Zizumbo D., R. Papa, M. Hufford, S. Repinski , and P. Gepts.2009. Identification of new wild populations of Phaseolus vulgaris in western Jalisco. <i>Annual Report of the Bean Improvement Cooperative</i> 52: 24-25
+Zizumbo D., R. Papa, M. Hufford, S. Repinski , and P. Gepts.2009. <a href="https://naldc-legacy.nal.usda.gov/naldc/download.xhtml?id=IND44207056&content=PDF">Identification of new wild populations of Phaseolus vulgaris in western Jalisco</a>. <i>Annual Report of the Bean Improvement Cooperative</i> 52: 24-25
 
-Pasquet, R. S., A. Peltier, M. B. Hufford, E. Oudin, J. Saulnier, L. Paul, J. T. Knudsen, H.R. Herren, and P. Gepts. 2008. Long-distance pollen flow assessment through evaluation of pollinator foraging range suggests transgene escape distance. <i>Proceedings of the National Academy of Sciences of the United States of America</i> 105(36): 13456-13461
+Pasquet, R. S., A. Peltier, M. B. Hufford, E. Oudin, J. Saulnier, L. Paul, J. T. Knudsen, H.R. Herren, and P. Gepts. 2008. <a href="https://www.pnas.org/content/105/36/13456">Long-distance pollen flow assessment through evaluation of pollinator foraging range suggests transgene escape distance</a>. <i>Proceedings of the National Academy of Sciences of the United States of America</i> 105(36): 13456-13461
 
-Hromas, R., M. Hufford, J. Sutton, D. W. Xu, X. X. Li, and L. Lu.1997. Plab, a novel placental bone morphogenetic protein. <i>Biochimica Et Biophysica Acta</i> 1354: 40-44
+Hromas, R., M. Hufford, J. Sutton, D. W. Xu, X. X. Li, and L. Lu.1997. <a href="https://www.sciencedirect.com/science/article/abs/pii/S016747819700122X?via%3Dihub">Plab, a novel placental bone morphogenetic protein</a>. <i>Biochimica Et Biophysica Acta</i> 1354: 40-44
