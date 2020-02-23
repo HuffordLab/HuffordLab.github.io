@@ -24,17 +24,17 @@ Wang, B., Z. Lin, X. Li, Y. Zhao...J. Lai, <b>M.B. Hufford</b>, J. Ross-Ibarra, 
 
 Coffman, S.M., <b>M.B. Hufford</b>, C.M. Andorf, T. Lübberstedt. <a href="https://link.springer.com/article/10.1007%2Fs00122-019-03486-y">Haplotype structure in commercial maize breeding programs in relation to key founder lines</a>. 2020. <i>Theoretical and Applied Genetics</i> 133: 547-561
 
-<b>Ou, S.</b>, W. Su, Y. Liao, K. Chougule, J.R.A. Agda, A.J. Hellinga, C. Santiago Blanco Lugo, D. Ware, T. Peterson, N. Jiang, C.N. Hirsch, <b>M.B. Hufford</b>. 2019. Benchmarking Transposable Element Annotation Methods for Creation of a Streamlined, Comprehensive Pipeline. <i>Genome Biology</i> 20: 275
+<b>Ou, S.</b>, W. Su, Y. Liao, K. Chougule, J.R.A. Agda, A.J. Hellinga, C. Santiago Blanco Lugo, D. Ware, T. Peterson, N. Jiang, C.N. Hirsch, <b>M.B. Hufford</b>. 2019. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1905-y">Benchmarking Transposable Element Annotation Methods for Creation of a Streamlined, Comprehensive Pipeline</a>. <i>Genome Biology</i> 20: 275
 
-Gonzalez-Segovia, E., S. Pérez-Limon, G.C. Cíntora-Martínez, A. Guerrero-Zavala, <b>G.M. Janzen, M.B. Hufford</b>, J. Ross-Ibarra, R.J.H Sawers. 2019. Characterization of  introgression from the teosinte Zea mays ssp. mexicana to Mexican highland maize. <i>PeerJ</i> e6815
+Gonzalez-Segovia, E., S. Pérez-Limon, G.C. Cíntora-Martínez, A. Guerrero-Zavala, <b>G.M. Janzen, M.B. Hufford</b>, J. Ross-Ibarra, R.J.H Sawers. 2019. <a href="https://peerj.com/articles/6815/">Characterization of  introgression from the teosinte Zea mays ssp. mexicana to Mexican highland maize</a>. <i>PeerJ</i> e6815
 
-<b>Woodhouse, M.R.</b> and <b>M.B. Hufford</b>. 2019. The limits of parallelism in adaptation due to domestication in the grasses. <i>Philosophical Transactions B</i> 374: 20180245
+<b>Woodhouse, M.R.</b> and <b>M.B. Hufford</b>. 2019. <a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0245">Parallelism and convergence in post-domestication adaptation in cereal grasses</a>. <i>Philosophical Transactions B</i> 374: 20180245
 
-Andorf, C., W.D. Beavis, <b>M.B. Hufford</b>, T. Lübberstedt, S. Smith, W. Suza, K. Wang, M. Woodhouse, J. Yu. 2019. Technological advanced in maize breeding: Past, present and future. <i>Theoretical and Applied Genetics</i> 132: 817-849
+Andorf, C., W.D. Beavis, <b>M.B. Hufford</b>, T. Lübberstedt, S. Smith, W. Suza, K. Wang, M. Woodhouse, J. Yu. 2019. <a href="https://link.springer.com/article/10.1007%2Fs00122-019-03306-3">Technological advanced in maize breeding: Past, present and future</a>. <i>Theoretical and Applied Genetics</i> 132: 817-849
 
-<b>Hufford, M.B.</b>, J.C.B.M.y Teran, P. Gepts. 2019. Crop Biodiversity: An unfinished magnum opus of nature. <i>Annual Review of Plant Biology</i> 70: 727-751
+<b>Hufford, M.B.</b>, J.C.B.M.y Teran, P. Gepts. 2019. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-arplant-042817-040240">Crop Biodiversity: An unfinished magnum opus of nature</a>. <i>Annual Review of Plant Biology</i> 70: 727-751
 
-<b>Janzen, G.M., L. Wang, M.B. Hufford</b>. 2019. The Extent of Adaptive Wild Introgression in Crops. <i>New Phytologist</i> 221: 1279-1288
+<b>Janzen, G.M., L. Wang, M.B. Hufford</b>. 2019. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15457">The Extent of Adaptive Wild Introgression in Crops</a>. <i>New Phytologist</i> 221: 1279-1288
 
 Trujillo, J., <b>A. Seetharam, M.B. Hufford</b>, M. Beilstein, R. Mosher. 2018. Evidence for a unique DNA-dependent RNA polymerase in cereal crops. <i>Molecular Biology and Evolution</i> 35: 2454-2462
 
