@@ -5,7 +5,7 @@ feature_text: |
   ## <span style="color:white">C.A.M.P.</span>
 ---
 
-C.A.M.P. is a journal club during which we end our week with some libations and erudite discussion. Each Friday, the Hufford Lab and “camp”adres convene at <a href="https://www.facebook.com/Stomping-Grounds-107335579324901/">Stomping Grounds</a> @ 4:00pm for discussion of journal articles that attract our fancy. No tents or flashlights required.
+C.A.M.P. is a journal club where we end our week with some libations and erudite discussion. Each Friday, the Hufford Lab and “camp”adres convene at <a href="https://www.facebook.com/Stomping-Grounds-107335579324901/">Stomping Grounds</a> @ 4:00pm for discussion of articles that attract our fancy. No tents or flashlights required.
 
 Papers by date they are discussed:
 
