@@ -47,17 +47,17 @@ Aburto-Oropeza, O., A. D. de la Vega, A. Ortinez...<b>M.B. Hufford</b>...V. H. P
 <b>Wang, L.</b>, T.M. Beissinger, A. Lorant, C. Ross-Ibarra, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2017. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4">The interplay of demography and selection during maize domestication and expansion</a>. <i>Genome Biology</i> 18: 215<br>
 *Video Abstract highlighting Wang et al.’s main findings can be found <a href="https://www.youtube.com/watch?reload=9&v=KgIUGHEZ2nM">here</a>
 
-Lorant, A., <b>S. Pedersen</b>, I. Holst, <b>M.B. Hufford</b>, K. Winter, D. Piperno, J. Ross-Ibarra. 2017. The potential role of genetic assimilation during maize domestication. <i>PLoS ONE</i> 12: e0184202
+Lorant, A., <b>S. Pedersen</b>, I. Holst, <b>M.B. Hufford</b>, K. Winter, D. Piperno, J. Ross-Ibarra. 2017. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202">The potential role of genetic assimilation during maize domestication</a>. <i>PLoS ONE</i> 12: e0184202
 
-Bilinski, P., Y. Han, <b>M.B. Hufford</b>, A. Lorant, P. Zhang, M.C. Estep, J. Jiang, J. Ross-Ibarra. 2017. Genomic abundance is not predictive of tandem repeat localization in grass genomes. <i>PLoS ONE</i> 12: e0177896
+Bilinski, P., Y. Han, <b>M.B. Hufford</b>, A. Lorant, P. Zhang, M.C. Estep, J. Jiang, J. Ross-Ibarra. 2017. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177896">Genomic abundance is not predictive of tandem repeat localization in grass genomes</a>. <i>PLoS ONE</i> 12: e0177896
 
-<b>Janzen, G.M</b>. and <b>M.B. Hufford</b>. 2016. Domestication: a sneak-peak into the midpoint of maize evolution. <i>Current Biology</i> 26: R1240-R1242
+<b>Janzen, G.M</b>. and <b>M.B. Hufford</b>. 2016. <a href="https://www.sciencedirect.com/science/article/pii/S0960982216312714">Crop Domestication: a sneak-peak into the midpoint of maize evolution</a>. <i>Current Biology</i> 26: R1240-R1242
 
-<b>Hufford, M.B.</b> 2016. Comparative genomics provides insight into maize adaptation in temperate regions. <i>Genome Biology</i> 17: 155
+<b>Hufford, M.B.</b> 2016. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1020-2">Comparative genomics provides insight into maize adaptation in temperate regions</a>. <i>Genome Biology</i> 17: 155
 
-Beissinger, T. M., <b>L. Wang</b>, K. Crosby, A. Durvasula, <b>M.B. Hufford</b>, J. Ross-Ibarra. 2016. Recent demography drives changes in linked selection across the maize genome. <i>Nature Plants</i> 2: Article Number 16084
+Beissinger, T. M., <b>L. Wang</b>, K. Crosby, A. Durvasula, <b>M.B. Hufford</b>, J. Ross-Ibarra. 2016. <a href="https://www.nature.com/articles/nplants201684">Recent demography drives changes in linked selection across the maize genome</a>. <i>Nature Plants</i> 2: Article Number 16084
 
-Sexton, J. P., <b>M. B. Hufford</b>, A. C. Bateman, D. B. Lowry, H. Meimberg, S. Y. Strauss, K. J. Rice. 2016. Climate structures genetic variation across a species’ elevation range: a test of range limits hypotheses. <i>Molecular Ecology</i> 25: 911-928
+Sexton, J. P., <b>M. B. Hufford</b>, A. C. Bateman, D. B. Lowry, H. Meimberg, S. Y. Strauss, K. J. Rice. 2016. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13528">Climate structures genetic variation across a species’ elevation range: a test of range limits hypotheses</a>. <i>Molecular Ecology</i> 25: 911-928
 
 Takuno, S., P. Ralph, K. Swarts, R. J. Elshire, J. C. Glaubitz, E. S. Buckler, <b>M. B. Hufford</b>, J. Ross-Ibarra. 2015. Independent molecular basis of convergent highland adaptation in maize. <i>Genetics</i> 200: 1297-312
 
