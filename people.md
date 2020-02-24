@@ -29,7 +29,8 @@ Michael comes to the maize genomics world from a diverse research background in 
 <br>
 
 <font size="5"><b><u>Collaborators</u></b>:<br></font>
-<font size="3"><b><a href="https://www.maizegenetics.net">Ed Buckler</a></b>, USDA-ARS, Cornell University<br>
+<font size="3"><b><a href="https://www.maizegdb.org/">Carson Andorf</a></b>, USDA-ARS, MaizeGDB<br>
+<b><a href="https://www.maizegenetics.net">Ed Buckler</a></b>, USDA-ARS, Cornell University<br>
 <b><a href="https://gcbias.org">Graham Coop</a></b>, University of California, Davis<br>
 <b><a href="https://www.dawelab.org">Kelly Dawe</a></b>, University of Georgia, Athens<br>
 <b><a href="http://web.missouri.edu/~flint-garcias/">Sherry Flint-Garcia</a></b>, USDA-ARS, University of Missouri<br>
@@ -39,4 +40,5 @@ Michael comes to the maize genomics world from a diverse research background in 
 <b><a href="https://runcielab.ucdavis.edu">Daniel Runcie</a></b>, University of California, Davis<br>
 <b><a href="https://plantscience.psu.edu/directory/rjs6686">Ruairidh Sawers</a></b>, Penn State University<br>
 <b><a href="http://siepellab.labsites.cshl.edu/">Adam Siepel</a></b>, Cold Spring Harbor Laboratory<br>
-<b><a href="http://www.warelab.org/">Doreen Ware</a></b>, USDA-ARS, Cold Spring Harbor Laboratory<br></font></p>
+<b><a href="http://www.warelab.org/">Doreen Ware</a></b>, USDA-ARS, Cold Spring Harbor Laboratory<br>
+<b><a href="https://www.maizegdb.org/">Maggie Woodhouse</a></b>, USDA-ARS, MaizeGDB<br></font></p>
