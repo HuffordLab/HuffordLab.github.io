@@ -17,7 +17,7 @@ Michael comes to the maize genomics world from a diverse research background in 
 
 <p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Shujunred.jpg" align="right"><font size="3"><b>Shujun Ou, Postdoctoral Scholar</b>: <br> Shujun joined the Hufford lab in the Spring of 2019. He obtained a PhD in Plant Genetics and Evolution from Michigan State University under the instruction of Ning Jiang. Shujun is interested in transposable elements and population genetics. He is working to understand the functional and adaptive significance of TEs during the evolution of plants, primarily in crop species. Rice and maize are his favorite systems. Shujun's additional interests include (ice-)fishing, volleyball, badminton, outdoor activities, and cooking.</font></p>
 
-<p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Elena.jpg" align="left"><font size="3"><b>Qiuhan Jiang, Graduate Student</b>: <br>
+<p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Elenared.jpg" align="left"><font size="3"><b>Qiuhan Jiang, Graduate Student</b>: <br>
 Elena-Qiuhan joined the Hufford lab as a Ph.D. student in Bioinformatics and Computational Biology in the Spring of 2020. She obtained a BS in Biology from Iowa State University. She is interested in identifying structural variants (SVs), such as chromosomal inversions between temperate and tropical maize lines, in order to increase understanding of how SVs associate with phenotypic traits such as flowering time, disease resistance, plant height, kernel compositions etc., and play a role in adaptation. Elena’s additional interests include painting, hanging out with her pets and binge watching Grey’s Anatomy.</font></p>
 
 <br>
