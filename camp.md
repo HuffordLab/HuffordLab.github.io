@@ -9,6 +9,11 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>February 28th, 2020</b><br />
+Jia et al. 2020<br />
+<a href="https://doi.org/10.1038/s41467-020-14746-7">A serine/threonine protein kinase encoding gene KERNEL NUMBER PER ROW6 regulates maize grain yield</a>
+
 <b>February 21st, 2020</b><br />
 Zhou et al. 2019<br />
-<a href="https://www.cell.com/molecular-plant/pdf/S1674-2052(18)30382-4.pdf">Dynamic patterns of gene expression additivity and regulatory variation throughout maize development</a>
+<a href="https://doi.org/10.1016/j.molp.2018.12.015">Dynamic patterns of gene expression additivity and regulatory variation throughout maize development</a>
+
