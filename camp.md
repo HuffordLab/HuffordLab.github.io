@@ -9,6 +9,10 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>March 4th, 2020</b><br />
+Groen et al. 2020<br />
+<a href="https://doi.org/10.1038/s41586-020-1997-2">The strength and pattern of natural selection on gene expression in rice</a>
+
 <b>February 28th, 2020</b><br />
 Jia et al. 2020<br />
 <a href="https://doi.org/10.1038/s41467-020-14746-7">A serine/threonine protein kinase encoding gene KERNEL NUMBER PER ROW6 regulates maize grain yield</a>
