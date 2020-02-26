@@ -46,7 +46,7 @@ Wisser <i>et al.</i> 2019<br />
 
 <b>October 18th, 2019</b><br />
 Chen <i>et al.</i> 2019<br />
-<a href="https://doi.org/10.1111/nph.16205">The bracteatus pineapple genome and domestication of clonally propagated crops</a>
+<a href="https://doi.org/10.1038/s41588-019-0506-8">The <i>bracteatus</i> pineapple genome and domestication of clonally propagated crops</a>
 
 <b>October 4th, 2019</b><br />
 Gaudinier <i>et al.</i> 2019<br />
@@ -66,15 +66,15 @@ Tian <i>et al.</i> 2019<br />
 
 <b>August 30th, 2019</b><br />
 Tian <i>et al.</i> 2019<br />
-<a href="https://doi.org/10.1101/738880">Chromosome-level assemblies of multiple Arabidopsis thaliana accessions reveal hotspots of genomic rearrangements</a>
+<a href="https://doi.org/10.1101/738880">Chromosome-level assemblies of multiple <i>Arabidopsis thaliana</i> accessions reveal hotspots of genomic rearrangements</a>
 
 <b>August 23rd, 2019</b><br />
 Lin <i>et al.</i> 2019<br />
-<a href="https://doi.org/10.1126/science.aav6312">Biological adaptations in the Arctic cervid, the reindeer (Rangifer tarandus)</a>
+<a href="https://doi.org/10.1126/science.aav6312">Biological adaptations in the Arctic cervid, the reindeer (<i>Rangifer tarandus</i>)</a>
 
 <b>June 14th, 2019</b><br />
 Yang <i>et al.</i> 2017<br />
-<a href="https://doi.org/10.1038/s41467-017-02063-5">Contributions of Zea mays subspecies mexicana haplotypes to modern maize</a>
+<a href="https://doi.org/10.1038/s41467-017-02063-5">Contributions of <i>Zea mays</i> subspecies mexicana haplotypes to modern maize</a>
 
 <b>June 7th, 2019</b><br />
 North Star Games – Evolution Board Game<br />
@@ -102,7 +102,7 @@ Stitzer <i>et al.</i> 2019<br />
 
 <b>March 1st, 2019</b><br />
 Elgueta <i>et al.</i> 2019<br />
-<a href="https://doi.org/10.1371/journal.pone.0210369">Genetic and phenotypic diversity in 2000 years old maize (Zea mays L.) samples from the Tarapacá region, Atacama Desert, Chile</a>
+<a href="https://doi.org/10.1371/journal.pone.0210369">Genetic and phenotypic diversity in 2000 years old maize (<i>Zea mays L.</i>) samples from the Tarapacá region, Atacama Desert, Chile</a>
 
 <b>February 22nd, 2019</b><br />
 Gaut <i>et al.</i> 2018<br />
@@ -129,7 +129,7 @@ Tan<i>et al.</i> 2017<br />
 
 <b>November 9th, 2018</b><br />
 Ellison <i>et al.</i> 2018<br />
-<a href="https://doi.org/10.1534/genetics.118.301299">Carotenoid presence is associated with the Or gene in domesticated carrot</a>
+<a href="https://doi.org/10.1534/genetics.118.301299">Carotenoid presence is associated with the <i>Or</i> gene in domesticated carrot</a>
 
 <b>November 2nd, 2018</b><br />
 Enard and Petrov 2018<br />
@@ -194,7 +194,7 @@ Ghosh <i>et al.</i> 2016<br />
 
 <b>March 30th, 2018</b><br />
 Geiger <i>et al.</i> 2018<br />
-<a href="https://doi.org/10.1098/rsos.172099">A longitudinal study of phenotypic changes in early domestication of house mice</a>
+<a href="https://doi.org/10.1098/rsos.172099">A longitudinal study of phenotypic changes in early domestication of house mice</a><br />
 additionally, please read this press release<br />
 <a href="https://phys.org/news/2018-03-self-domesticating-mice-similar-intentionally-domesticated.html">Self-domesticating mice show changes similar to intentionally domesticated animals</a>
 
@@ -202,3 +202,289 @@ additionally, please read this press release<br />
 Corbi <i>et al.</i> 2017<br />
 <a href="https://doi.org/10.1111/mec.14202">Genome-wide analysis of allele frequency change in sunflower crop-wild hybrid populations evolving under natural conditions</a>
 
+<b>March 2, 2018</b><br />
+Martín-Robles<i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1111/nph.14962">Impacts of domestication on the arbuscular mycorrhizal symbiosis of 27 crop species</a>
+
+<b>February 23, 2018</b><br />
+Stein <i>et al.</i> 2018<br />
+<a href="https://doi.org/10.1038/s41588-018-0040-0">Genomes of 13 domesticated and wild rice relatives highlight genetic conservation, turnover and innovation across the genus <i>Oryza</i></a>
+
+<b>February 16th, 2018</b><br />
+Niederhuth <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1186/s13059-016-1059-0">Widespread natural variation of DNA methylation within angiosperms</a>
+
+<b>February 9th, 2018</b><br />
+Petersen <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1371/journal.pone.0054997">Genetic diversity in the modern horse illustrated from genome-wide SNP data</a><br />
+Schubert <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1073/pnas.1416991111">Prehistoric genomes reveal the genetic foundation and cost of horse domestication</a>
+
+<b>February 2nd, 2018</b><br />
+Bay <i>et al.</i> 2018<br />
+<a href="https://doi.org/10.1126/science.aan4380">Genomic signals of selection predict climate-driven population declines in a migratory bird</a>
+
+<b>January 26th, 2018</b><br />
+Willi <i>et al.</i> 2018<br />
+<a href="https://doi.org/10.1093/molbev/msy003">Accumulation of mutational load at the edges of a species range</a>
+
+<b>January 19th, 2018</b><br />
+Allard 1999<br />
+<a href="https://doi.org/10.1146/annurev.genet.33.1.1">History of Plant Population Genetics</a>
+
+<b>January 11th, 2018</b><br />
+Hardigan <i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1073/pnas.1714380114">Genome diversity of tuber-bearing <i>Solanum</i> uncovers complex evolutionary history and targets of domestication in the cultivated potato</a>
+
+<b>December 15th, 2017</b><br />
+Szücs <i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1073/pnas.1712934114">Rapid adaptive evolution in novel environments acts as an architect of population range expansion</a>
+
+<b>December 8th, 2017</b><br />
+Good <i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1038/nature24287">The dynamics of molecular evolution over 60,000 generations</a>
+
+<b>December 1st, 2017</b><br />
+Murray <i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1126/science.aao0960">Natural selection shaped the rise and fall of passenger pigeon genomic diversity</a>
+
+<b>November 18th, 2016</b><br />
+Hirsch <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1105/tpc.16.00353">Draft assembly of the elite inbred line PH207 provides insights into genomic and transcriptome diversity in maize</a>
+
+<b>November 11th, 2016</b><br />
+Studer <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1186/s13059-016-1080-3">The draft genome of the C3 panicoid grass species <i>Dichanthelium oligosanthes</i></a>
+
+<b>November 4th, 2016</b><br />
+Racimo <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1093/molbev/msw216">Signatures or archaic adaptive introgression in present-day human populations</a>
+
+<b>October 28th, 2016</b><br />
+Gould <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1111/mec.13881">Pooled ecotype sequencing reveals candidate genetic mechanisms for adaptive differentiation and reproductive isolation</a>
+
+<b>October 21st, 2016</b><br />
+Pozhitkov <i>et al.</i> 2016<br />
+<a href="http://dx.doi.org/10.1098/rsob.160267">Thanatotranscriptome: genes actively expressed after organismal death</a>
+
+<b>July 22nd, 2016</b><br />
+Schraiber and Akey 2015<br />
+<a href="https://doi.org/10.1038/nrg4005">Methods and models for unravelling human evolutionary history</a>
+
+<b>July 15th, 2016</b><br />
+Bredeson <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1038/nbt.3535">Sequencing wild and cultivated cassava and related species reveals extensive interspecific hybridization and genetic diversity</a>
+
+<b>July 8th, 2016</b><br />
+Funk <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1111/mec.13605">Adaptive divergence despite strong genetic drift: genomic analysis of the evolutionary mechanisms causing genetic differentiation in the island fox (<i>Urocyon littoralis</i>)</a>
+
+<b>July 1st, 2016</b><br />
+Uricchio <i>et al.</i> 2016<br />
+<a href="http://www.genome.org/cgi/doi/10.1101/gr.202440.115">Selection and explosive growth alter genetic architecture and hamper the detection of causal rare variants</a>
+
+<b>June 24th, 2016</b><br />
+Sedghifar <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1111/mec.13677">Beyond clines: lineages and haplotype blocks in hybrid zones</a>
+
+<b>June 17th, 2016</b><br />
+Zhang <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1093/gbe/evw117">Teff, an orphan cereal in the <i>Chloridoideae</i>, provides insights into the evolution of storage proteins in grasses</a>
+
+<b>June 10th, 2016</b><br />
+Kono <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1101/033175">The role of deleterious substitutions in crop genomes</a>
+
+<b>June 3rd, 2016</b><br />
+Guo <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1111/mec.13657">Population genomic evidence for adaptive differentiation in the Baltic Sea herring</a>
+
+<b>May 27th, 2016</b><br />
+Peterson <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1111/nph.13971">The scale of local adaptation in Mimulus guttatus: comparing life history races, ecotypes, and populations</a>
+
+<b>May 20th, 2016</b><br />
+Koch <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1111/mec.13480">The concerted impact of domestication and transposon insertions on methylation patterns between dogs and grey wolves</a>
+
+<b>May 13th, 2016</b><br />
+Cardoso-Moreira <i>et al.</i> 2016<br />
+<a href="www.genome.org/cgi/doi/10.1101/gr.199323.115">Evidence for the fixation of gene duplications by positive selection in <i>Drosophila</i></a>
+
+<b>May 6th, 2016</b><br />
+Bankoff <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1101/048165">Do aye-ayes echolocate? Studying convergent genomic evolution in a primate auditory specialist</a>
+
+<b>April 29th, 2016</b><br />
+Fountain <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1073/pnas.1600951113">Predictable allele frequency changes due to habitat fragmentation in the Glanville fritillary butterfly</a>
+
+<b>April 22nd, 2016</b><br />
+He and Knowles 2016<br />
+<a href="https://doi.org/10.1111/mec.13619">Identifying targets of selection in mosaic genomes with machine learning: applications in <i>Anopheles gambiae</i> for detecting sites within locally adapted chromosomal inversions</a>
+
+<b>April 15th, 2016</b><br />
+Bertioli <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1038/ng.3517">The genome sequences of <i>Arachis duranensis</i> and <i>Arachis ipaensis</i>, the diploid ancestors of cultivated peanut</a>
+
+<b>April 8th, 2016</b><br />
+Llamas <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1126/sciadv.1501385">Ancient mitochondrial DNA provides high-resolution time scale of the peopling of the Americas</a>
+
+<b>April 1st, 2016</b><br />
+Adhikari<i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1038/ncomms10815">A genome-wide association scan in admixed Latin Americans identifies loci influencing facial and scalp hair features</a>
+
+<b>March 25th, 2016</b><br />
+Willing <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1038/nplants.2014.23">Genomic expansion of <i>Arabis alpina</i> linked with retrotransposition and reduced symmetric DNA methylation</a>
+
+<b>March 11th, 2016</b><br />
+Yao <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pone.0090695">Improving the adaptability of simulated evolutionary swarm robots in dynamically changing environments</a>
+
+<b>March 4th, 2016</b><br />
+Besnard <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1098/rspb.2012.2833">The complex history of the olive tree: from Late Quaternary diversification of Mediterranean lineages to primary domestication in the northern Levant</a>
+
+<b>February 26th, 2016</b><br />
+Schneider <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1073/pnas.1522008113">Inbreeding drives maize centromere evolution</a>
+
+<b>February 19th, 2016</b><br />
+Harris and Nielsen 2016<br />
+<a href="https://doi.org/10.1534/genetics.116.186890">The genetic cost of Neanderthal introgression</a>
+
+<b>February 12th, 2016</b><br />
+Olsen <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1038/nature16548">The genome of the seagrass Zostera marina reveals angiosperm adaptation to the sea</a>
+
+<b>February 5th, 2016</b><br />
+Dopico <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1038/ncomms8000">Widespread seasonal gene expression reveals annual differences in human immunity and physiology</a>
+
+<b>January 29th, 2016</b><br />
+Henn <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1073/pnas.1510805112">Distance from sub-Saharan Africa predicts mutational load in diverse human genomes</a>
+
+<b>January 22nd, 2016</b><br />
+Marsden <i>et al.</i> 2016<br />
+<a href="https://doi.org/10.1073/pnas.1512501113">Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs</a>
+
+<b>July 24th, 2015</b><br />
+Montano <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1534/genetics.115.176404">Worldwide population structure, long-term demography, and local adaptation of <i>Helicobacter pylori</i></a>
+
+<b>July 17th, 2015</b><br />
+Wasser <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1126/science.aaa2457">Genetic assignment of large seizures of elephant ivory reveals Africa’s major poaching hotspots</a>
+
+<b>July 10th, 2015</b><br />
+Zhang <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1126/science.1251385">Comparative genomics reveals insights into avian genome evolution and adaptation</a>
+
+<b>June 12th, 2015</b><br />
+Brandvain <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004410">Speciation and introgression between <i>Mimulus nasutus</i> and <i>Mimulus guttatus</i></a>
+
+<b>June 5th, 2015</b><br />
+Kapheim <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1126/science.aaa4788">Genomic signatures of evolutionary transitions from solitary to group living</a>
+
+<b>May 29th, 2015</b><br />
+Racimo <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1038/nrg3936">Evidence for archaic adaptive introgression in humans
+</a>
+
+<b>May 22nd, 2015</b><br />
+Henn <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1038/nrg3931">Estimating the mutation load in human genomes</a>
+
+<b>May 15th, 2015</b><br />
+Zhao <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1371/journal.pgen.1005184">Parallel gene expression differences between low and high latitude populations of <i>Drosophila melanogaster<i/> and <i>D. simulans</i></a>
+
+<b>May 8th, 2015</b><br />
+Palkopoulou <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1016/j.cub.2015.04.007">Complete genomes reveal signatures of demographic and genetic declines in the woolly mammoth</a>
+
+<b>April 3rd, 2015</b><br />
+Bradburd <i>et al.</i> 2015<br />
+<a href="http://dx.doi.org/10.1371/journal.pgen.1005703">A spatial framework for understanding population structure and admixture</a>
+
+<b>March 27th, 2015</b><br />
+Simons <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/ng.2896">The deleterious mutation load is insensitive to recent population history</a>
+
+<b>February 27th, 2015</b><br />
+<b>Neandertal Friday!!</b><br />
+Vernot and Akey 2015<br />
+<a href="https://doi.org/10.1016/j.ajhg.2015.01.006">Complex history of admixture between modern humans and Neandertals</a>
+Kim and Lohmueller 2015<br />
+<a href="https://doi.org/10.1016/j.ajhg.2014.12.029">Selection and reduced population size cannot explain higher amounts of Neandertal ancestry in East Asian than in European human populations</a>
+
+<b>February 20th, 2015</b><br />
+Lemmon <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004745">The role of <i>cis</i> regulatory evolution in maize domestication</a>
+
+<b>February 13th, 2015</b><br />
+<b>Genetic erosion in maize (a dialog from PNAS)</b><br />
+Dyer <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1073/pnas.1407033111">Genetic erosion in maize’s center of origin</a>
+Brush <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1073/pnas.1422010112">Assessing maize genetic erosion</a>
+Dyer <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1073/pnas.1422645112">Reply to Brush <i>et al.</i>: Wake-up call for crop conservation science</a>
+
+<b>February 6th, 2015</b><br />
+Zeng <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1073/pnas.1423628112">The draft genome of Tibetan hulless barley reveals adaptive patterns to the high stressful Tibetan Plateau</a>
+
+<b>January 30th, 2015</b><br />
+Fontaine <i>et al.</i> 2015<br />
+<a href="https://doi.org/10.1126/science.1258524">Extensive introgression in a malaria vector species complex revealed by phylogenomics</a>
+
+<b>January 16th, 2015</b><br />
+Berg and Coop 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004412">A population genetic signal of polygenic adaptation</a>
+
+<b>December 12th, 2014</b><br />
+Bergland <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004775">Genomic evidence of rapid and stable adaptive oscillations over seasonal time scales in Drosophila</a>
+
+<b>December 5th, 2014</b><br />
+Tiffin and Ross-Ibarra 2014<br />
+<a href="https://doi.org/10.1016/j.tree.2014.10.004">Advances and limits of using population genetics to understand local adaptation</a>
+
+<b>November 3rd, 2014</b><br />
+Frantz <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1101/010959">Analyses of Eurasian wild and domestic pig genomes reveals long-term gene-flow during domestication</a>
+
+<b>October 27th, 2014</b><br />
+Pallares <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1111/mec.12968">Use of a natural hybrid zone for genome-wide association mapping of craniofacial traits in the house mouse</a>
+
+<b>October 20th, 2014</b><br />
+Campbell <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1104/pp.113.230144">MAKER-P: A tool kit for the rapid creation, management, and quality control of plant genome annotations</a>
+
+<b>October 13th, 2014</b><br />
+Romiguier <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/nature13685">Comparative population genomics in animals uncovers the determinants of genetic diversity</a>
+
+<b>October 6th, 2014</b><br />
+Ghaffari <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1007/s00412-012-0391-8">Maize chromosomal knobs are located in gene-dense areas and suppress local recombination</a>
+
+<b>September 29th, 2014</b><br />
+Hirsch <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1534/genetics.114.167155">Insights into the effects of long-term artificial selection on seed size in maize</a>
+
+<b>September 22nd, 2014</b><br />
+Brawand <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/nature13726">The genomic substrate of adaptive radiation in African cichlid fish</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2016<br />
+<a href="WEBLINK">TITLE</a>
