@@ -170,9 +170,9 @@ Van Deynze<i>et al.</i> 2018<br />
 <b>May 4th, 2018</b><br />
 <b>FRACTIONATION FRIDAY!!</b><br />
 Woodhouse <i>et al.</i> 2010<br />
-<a href="https://doi.org/10.1371/journal.pbio.1000409">Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs</a>
+<a href="https://doi.org/10.1371/journal.pbio.1000409">Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs</a><br />
 Renny-Byfield<i>et al.</i> 2017<br />
-<a href="https://doi.org/10.1093/molbev/msx121">Gene Fractionation and Function in the Ancient Subgenomes of Maize</a>
+<a href="https://doi.org/10.1093/molbev/msx121">Gene Fractionation and Function in the Ancient Subgenomes of Maize</a><br />
 Wendel <i>et al.</i> 2018<br />
 <a href="https://doi.org/10.1016/j.gde.2018.01.004">The long and short of doubling down: polyploidy, epigenetics, and the temporal dynamics of genome fractionation</a>
 
@@ -195,10 +195,301 @@ Ghosh <i>et al.</i> 2016<br />
 <b>March 30th, 2018</b><br />
 Geiger <i>et al.</i> 2018<br />
 <a href="https://doi.org/10.1098/rsos.172099">A longitudinal study of phenotypic changes in early domestication of house mice</a>
-**additionally, please read this press release**
+**additionally, please read this press release**<br />
 <a href="https://phys.org/news/2018-03-self-domesticating-mice-similar-intentionally-domesticated.html">Self-domesticating mice show changes similar to intentionally domesticated animals</a>
 
 <b>March 9, 2018</b><br />
 Corbi <i>et al.</i> 2017<br />
 <a href="https://doi.org/10.1111/mec.14202">Genome-wide analysis of allele frequency change in sunflower crop-wild hybrid populations evolving under natural conditions</a>
 
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
+
+<b>DATE</b><br />
+AUTHOR<i>et al.</i> 2018<br />
+<a href="WEBLINK">TITLE</a>
