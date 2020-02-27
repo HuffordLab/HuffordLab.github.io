@@ -485,6 +485,173 @@ Hirsch <i>et al.</i> 2014<br />
 Brawand <i>et al.</i> 2014<br />
 <a href="https://doi.org/10.1038/nature13726">The genomic substrate of adaptive radiation in African cichlid fish</a>
 
+<b>September 15th, 2014</b><br />
+Huang <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004527">Genome-wide patterns of genetic variation within and among alternative selective regimes</a>
+
+<b>September 8th, 2014</b><br />
+Carneiro <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1126/science.1253714">Rabbit genome analysis reveals a polygenic basis for phenotypic change during domestication</a>
+
+<b>August 25th, 2014</b><br />
+Martin <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004549">Transcriptome sequencing from diverse human populations reveals differentiated regulatory architecture</a>
+
+<b>August 18th, 2014</b><br />
+Yoder <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1093/sysbio/syt009">Phylogenetic signal variation in the genomes of <i>Medicago</i> (Fabaceae)</a>
+
+<b>August 4th, 2014</b><br />
+Hughes <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1101/gr.172684.114">The impact of widespread regulatory neofunctionalization on homeolog gene evolution following whole-genome duplication in maize</a>
+
+<b>July 28th, 2014</b><br />
+Fang <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1534/g3.114.010561">Two genomic regions contribute disproportionately to geographic differentiation in wild barley</a>
+
+<b>July 21st, 2014</b><br />
+Arnegard <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/nature13301">Genetics of ecological divergence during speciation</a>
+
+<b>July 14th, 2014</b><br />
+Schmutz <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/ng.3008">A reference genome for common bean and genome-wide analysis of dual domestications</a>
+
+<b>July 7th, 2014</b><br />
+Poelstra <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1126/science.1253226">The genomic landscape underlying phenotypic plasticity in the face of gene flow in crows</a>
+
+<b>June 30th, 2014</b><br />
+Schiffels & Durbin 2014<br />
+<a href="https://doi.org/10.1038/ng.3015">Inferring human population size and separation history from multiple genome sequences</a>
+
+<b>June 23rd, 2014</b><br />
+Sekhon <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1104/pp.114.235424">Phenotypic and transcriptional analysis of divergently selected maize populations reveals the role of developmental timing in seed size determination</a>
+
+<b>June 16th, 2014</b><br />
+Enard <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1101/gr.164822.113">Genome-wide signals of positive selection in human evolution</a>
+
+<b>June 9th, 2014</b><br />
+Ellstrand 2014<br />
+<a href="https://doi.org/10.3732/ajb.1400024">Is gene flow the most important evolutionary force in plants?</a>
+
+<b>June 2nd, 2014</b><br />
+Soria-Carrasco<i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1126/science.1252136">Stick insect genomes reveal natural selection’s role in parallel speciation</a>
+
+<b>May 19th, 2014</b><br />
+Do <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/ng.3186">No evidence that natural selection has been less effective at removing deleterious mutations in Europeans than in West Africans</a>
+
+<b>May 12th, 2014</b><br />
+Sheehan <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1534/genetics.112.149096">Estimating variable effective population sizes from multiple genomes: A sequentially Markov conditional sampling distribution approach</a>
+
+<b>May 5th, 2014</b><br />
+Yoder <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1534/genetics.113.159319">Genomic signature of adaptation to climate in <i>Medicago truncatula</i></a>
+
+<b>April 28th, 2014</b><br />
+Foll <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1101/002816">Hierarchical Bayesian model of population structure reveals convergent adaptation to high altitude in human populations</a>
+
+<b>April 21st, 2014</b><br />
+Decker <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004254">Worldwide patterns of ancestry, divergence, and admixture in domesticated cattle</a>
+
+<b>April 14th, 2014</b><br />
+Wagner <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1111/ele.12276">Natural soil microbes alter flowering phenology and the intensity of selection on flowering time in a wild Arabidopsis relative</a>
+
+<b>April 7th, 2014</b><br />
+Hirsch <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1105/tpc.113.119982">Insights into the maize pan-genome and pan-transcriptome</a>
+
+<b>March 31st, 2014</b><br />
+Gassmann <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1073/pnas.1317179111">Field-evolved resistance by western corn rootworm to multiple <i>Bacillus thuringiensis</i> toxins in transgenic maize</a>
+
+<b>March 24th, 2014</b><br />
+Hellenthal <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1126/science.1243518">A genetic atlas of human admixture history</a>
+
+<b>March 10th, 2014</b><br />
+Bhattacharya <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1093/molbev/mst084">Genome analysis of <i>Elysia chlorotica</i> egg DNA provides no evidence for horizontal gene transfer into the germ line of this kleptoplastic mollusk</a><br />
+<i>For Background:</i><br />
+Rumpho <i>et al.</i> 2008<br />
+<a href="https://doi.org/10.1073/pnas.0804968105">Horizontal gene transfer of the algal nuclear gene <i>psbO</i> to the photosynthetic sea slug <i>Elysia chlorotica</i></a>
+
+<b>March 3rd, 2014</b><br />
+<i>Special Double Feature</i><br />
+Prüfer <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/nature12886">The complete genome sequence of a Neanderthal from the Atlai Mountains</a><br />
+Sankararaman <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/nature12961">The genomic landscape of Neanderthal ancestry in present-day humans</a>
+
+<b>February 24th, 2014</b><br />
+Li and Durbin 2011<br />
+<a href="https://doi.org/10.1038/nature10231">Inference of human population history through individual whole-genome sequences</a>
+
+<b>February 17th, 2014</b><br />
+Freedman <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1371/journal.pgen.1004016">Genome Sequencing Highlights the Dynamic Early History of Dogs</a>
+
+<b>February 10th, 2014</b><br />
+Korneliussen <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1186/1471-2105-14-289">Calculation of Tajima’s <i>D</i> and other neutrality test statistics from low depth next-generation sequencing data</a>
+
+<b>January 27th, 2014</b><br />
+Tobler <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1093/molbev/mst205">Massive habitat-specific genomic response in <i>D. melanogaster</i> populations during experimental evolution in hot and cold environments</a>
+
+<b>January 20th, 2014</b><br />
+Murat <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1093/gbe/evt200">Shared sub-genome dominance following polyploidization explains grass genome evolutionary plasticity from a 7 protochromosome ancestor with 16K protogenes</a>
+
+<b>December 16th, 2013</b><br />
+Pickrell and Pritchard 2012<br />
+<a href="https://doi.org/10.1371/journal.pgen.1002967">Inference of population splits and mixtures from genome-wide allele frequency data</a>
+
+<b>December 9th, 2013</b><br />
+Qi <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1038/ng.2801">A genomic variation map provides insights into the genetic basis of cucumber domestication and diversity</a>
+
+<b>December 2nd, 2013</b><br />
+Special Series on Macroevolution<br />
+
+<b>November 18th, 2013</b><br />
+Special Series on Macroevolution<br />
+
+<b>November 11th, 2013</b><br />
+Special Series on Macroevolution<br />
+
+<b>November 4th, 2013</b><br />
+Bradic <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1093/molbev/mst136">The population genomics of repeated evolution in the blind cavefish <i>Astyanax mexicanus</i></a>
+
+<b>October 28th, 2013</b><br />
+Eckert <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1534/genetics.113.157198">The evolutionary genetics of the genes underlying phenotypic associations for Loblolly Pine (<i>Pinus taeda</i>, Pinaceae)</a>
+
+<b>October 21st, 2013</b><br />
+Wang <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1371/journal.pgen.1003872">Function and evolution of DNA methylation in <i>Nasonia vitripennis</i></a>
+
+<b>October 14th, 2013</b><br />
+Parker <i>et al.</i> 2013<br />
+<a href="https://doi.org/10.1038/nature12511">Genome-wide signatures of convergent evolution in echolocating mammals</a>
+
+<b>October 7th, 2013</b><br />
+Long <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/ng.2678">Massive genomic variation and strong selection in Arabidopsis thaliana lines from Sweden</a>
+
+ <pre> <%--
+
 <b>DATE</b><br />
-AUTHOR<i>et al.</i> 2016<br />
+AUTHOR<i>et al.</i> 2014<br />
 <a href="WEBLINK">TITLE</a>
+
+--%> </pre>
