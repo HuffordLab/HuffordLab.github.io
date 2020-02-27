@@ -195,7 +195,7 @@ Ghosh <i>et al.</i> 2016<br />
 <b>March 30th, 2018</b><br />
 Geiger <i>et al.</i> 2018<br />
 <a href="https://doi.org/10.1098/rsos.172099">A longitudinal study of phenotypic changes in early domestication of house mice</a><br />
-additionally, please read this press release<br />
+Additionally, please read this press release:<br />
 <a href="https://phys.org/news/2018-03-self-domesticating-mice-similar-intentionally-domesticated.html">Self-domesticating mice show changes similar to intentionally domesticated animals</a>
 
 <b>March 9, 2018</b><br />
@@ -420,7 +420,7 @@ Simons <i>et al.</i> 2014<br />
 <b>February 27th, 2015</b><br />
 <b>Neandertal Friday!!</b><br />
 Vernot and Akey 2015<br />
-<a href="https://doi.org/10.1016/j.ajhg.2015.01.006">Complex history of admixture between modern humans and Neandertals</a>
+<a href="https://doi.org/10.1016/j.ajhg.2015.01.006">Complex history of admixture between modern humans and Neandertals</a><br />
 Kim and Lohmueller 2015<br />
 <a href="https://doi.org/10.1016/j.ajhg.2014.12.029">Selection and reduced population size cannot explain higher amounts of Neandertal ancestry in East Asian than in European human populations</a>
 
@@ -431,9 +431,9 @@ Lemmon <i>et al.</i> 2014<br />
 <b>February 13th, 2015</b><br />
 <b>Genetic erosion in maize (a dialog from PNAS)</b><br />
 Dyer <i>et al.</i> 2014<br />
-<a href="https://doi.org/10.1073/pnas.1407033111">Genetic erosion in maize’s center of origin</a>
+<a href="https://doi.org/10.1073/pnas.1407033111">Genetic erosion in maize’s center of origin</a><br />
 Brush <i>et al.</i> 2015<br />
-<a href="https://doi.org/10.1073/pnas.1422010112">Assessing maize genetic erosion</a>
+<a href="https://doi.org/10.1073/pnas.1422010112">Assessing maize genetic erosion</a><br />
 Dyer <i>et al.</i> 2015<br />
 <a href="https://doi.org/10.1073/pnas.1422645112">Reply to Brush <i>et al.</i>: Wake-up call for crop conservation science</a>
 
@@ -647,11 +647,3 @@ Parker <i>et al.</i> 2013<br />
 <b>October 7th, 2013</b><br />
 Long <i>et al.</i> 2014<br />
 <a href="https://doi.org/10.1038/ng.2678">Massive genomic variation and strong selection in Arabidopsis thaliana lines from Sweden</a>
-
- <pre> <%--
-
-<b>DATE</b><br />
-AUTHOR<i>et al.</i> 2014<br />
-<a href="WEBLINK">TITLE</a>
-
---%> </pre>
