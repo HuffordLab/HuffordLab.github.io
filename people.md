@@ -23,6 +23,9 @@ Arun's main interests are in the fields of bioinformatics and evolutionary genom
 <p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Elenared2.jpg" align="right"><font size="3"><b>Qiuhan Jiang, Graduate Student</b>: <br>
 Elena-Qiuhan joined the Hufford lab as a Ph.D. student in Bioinformatics and Computational Biology in the Spring of 2020. She obtained a BS in Biology from Iowa State University. She is interested in identifying structural variants (SVs), such as chromosomal inversions between temperate and tropical maize lines, in order to increase understanding of how SVs associate with phenotypic traits such as flowering time, disease resistance, plant height, kernel compositions etc., and play a role in adaptation. Elena’s additional interests include painting, hanging out with her pets and binge watching Grey’s Anatomy.</font></p>
 
+<p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/nancy.png" align="left"><font size="3"><b>Nancy Manchanda, Graduate Student</b>: <br>
+Nancy is a PhD student in the Bioinformatics and Computational Biology (BCB) program. She completed her undergraduate degree in Biotechnology from IILM College of Engineering and Technology, India and Masters in Bioinformatics from Jawaharlal Nehru University, India. After receiving her masters degree, she worked at Jawaharlal Nehru University and the International Center for Genetic Engineering and Biotechnology, India. Her research interest includes methods for characterization of genome assembly and gene structure annotations. She is currently working on the assembly and analysis of the genome of the maize inbred line B104 using transcriptomics and epigenomics datasets. In her spare time, Nancy loves to create digital paintings and play badminton.</font></p>
+
 <br>
 
 <p style="line-height:1.5"><font size="5"><b><u>Alumni</u></b>:<br></font>
