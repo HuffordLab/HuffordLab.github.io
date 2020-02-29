@@ -3,8 +3,6 @@ layout: page
 title: Lab Members
 ---
 
-<i>This page is in development</i>
-
 {% include figure.html image="https://huffordlab.github.io/pictures/Lab_maize.jpg" caption="Hufford Lab taking on the Pumpkinville Corn Maze" position="center" %}
 
 
