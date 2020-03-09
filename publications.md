@@ -11,18 +11,19 @@ Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. G
 
 <b>Hufnagel, D.E., M.B. Hufford, A. S. Seetharam</b>. SequelTools: A suite of tools for working with PacBio Sequel raw sequence data. [<a href="https://www.biorxiv.org/content/10.1101/611814v2">preprint</a>]
 
-<b>Ou, S.</b>, J. Liu, K.M. Chougule, A. Fungtammasan, <b>A.S. Seetharam</b>, J. Stein, V. Llaca, <b>N. Manchanda</b>, A.M. Gilbert, X. Wei, C. Chin, <b>D.E. Hufnagel, S. Pedersen, S. Snodgrass</b>, K. Fengler, M. Woodhouse, B.P. Walenz, S. Koren, A.M. Phillippy, B. Hannigan, R.K. Dawe, C.N. Hirsch, <b>M.B. Hufford</b>, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. [<a href="https://www.biorxiv.org/content/10.1101/858365v2">preprint</a>]
 
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, S.J. Snodgrass, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://www.biorxiv.org/content/10.1101/706739v1">preprint</a>]
 
 
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
-<b>Manchanda., N.</b>, J.L. Portwood, II, M.R. Woodhouse, <b>A.S. Seetharam</b>, C.M. Andorf, <b>M.B. Hufford</b>. 2020. GenomeQC: A quality assessment tool for genome assemblies and gene annotations. <i>BMC Genomics</i> In Press [<a href="https://www.biorxiv.org/content/10.1101/795237v2">preprint</a>]
+<b>Ou, S.</b>, J. Liu, K.M. Chougule, A. Fungtammasan, <b>A.S. Seetharam</b>, J. Stein, V. Llaca, <b>N. Manchanda</b>, A.M. Gilbert, X. Wei, C. Chin, <b>D.E. Hufnagel, S. Pedersen, S. Snodgrass</b>, K. Fengler, M. Woodhouse, B.P. Walenz, S. Koren, A.M. Phillippy, B. Hannigan, R.K. Dawe, C.N. Hirsch, <b>M.B. Hufford</b>, Doreen Ware. 2020. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. <i>Nature Communications</i> In Press [<a href="https://www.biorxiv.org/content/10.1101/858365v2">preprint</a>]
+
+<b>Manchanda., N.</b>, J.L. Portwood, II, M.R. Woodhouse, <b>A.S. Seetharam</b>, C.M. Andorf, <b>M.B. Hufford</b>. 2020. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6568-2">GenomeQC: A quality assessment tool for genome assemblies and gene annotations</a>. <i>BMC Genomics</i> 21: 193
 
 Wang, B., Z. Lin, X. Li, Y. Zhao...J. Lai, <b>M.B. Hufford</b>, J. Ross-Ibarra, H. He, H. Wang. 2020. Genome-wide selection and genetic improvement during modern maize breeding. <i>Nature Genetics</i> In Press
 
-Coffman, S.M., <b>M.B. Hufford</b>, C.M. Andorf, T. Lübberstedt. <a href="https://link.springer.com/article/10.1007%2Fs00122-019-03486-y">Haplotype structure in commercial maize breeding programs in relation to key founder lines</a>. 2020. <i>Theoretical and Applied Genetics</i> 133: 547-561
+Coffman, S.M., <b>M.B. Hufford</b>, C.M. Andorf, T. Lübberstedt. 2020. <a href="https://link.springer.com/article/10.1007%2Fs00122-019-03486-y">Haplotype structure in commercial maize breeding programs in relation to key founder lines</a>. <i>Theoretical and Applied Genetics</i> 133: 547-561
 
 <b>Ou, S.</b>, W. Su, Y. Liao, K. Chougule, J.R.A. Agda, A.J. Hellinga, C. Santiago Blanco Lugo, D. Ware, T. Peterson, N. Jiang, C.N. Hirsch, <b>M.B. Hufford</b>. 2019. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1905-y">Benchmarking Transposable Element Annotation Methods for Creation of a Streamlined, Comprehensive Pipeline</a>. <i>Genome Biology</i> 20: 275
 
