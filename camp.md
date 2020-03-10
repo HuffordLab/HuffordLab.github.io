@@ -9,7 +9,7 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>March 20th, 2020</b><br />
+<b>March 27th, 2020</b><br />
 Razifard <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1093/molbev/msz297">Genomic Evidence for Complex Domestication History of the Cultivated Tomato in Latin America</a>
 
