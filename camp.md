@@ -9,11 +9,17 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>April 3rd, 2020</b><br />
+Wang <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1186/s13059-020-01959-8">The genome evolution and domestication of tropical fruit mango</a>
+
 <b>March 27th, 2020</b><br />
 Razifard <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1093/molbev/msz297">Genomic Evidence for Complex Domestication History of the Cultivated Tomato in Latin America</a>
 
-<b>March 13th, 2020</b><br />
+<b>March 20th, 2020</b><br />
+Catherine Tubb & Tony Seba 2019<br />
+<a href="https://www.rethinkx.com/food-and-agriculture">Rethinking Food and Agriculture 2020-2030, RethinkX Sector Disruption Report, September 2019</a>
 
 <b>March 6th, 2020</b><br />
 Groen <i>et al.</i> 2020<br />
