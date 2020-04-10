@@ -11,11 +11,11 @@ Papers by date they are discussed:
 
 <b>April 17th, 2020</b><br />
 Xu <i>et al.</i> 2020<br />
-<a href="https://doi.org/10.1101/2020.03.13.991117">Adaptive evolution of DNA methylation reshaped gene regulation in maize</a>
+<a href="https://doi.org/10.1016/j.tree.2020.03.002">Adaptive evolution of DNA methylation reshaped gene regulation in maize</a>
 
 <b>April 10th, 2020</b><br />
-Grytten <i>et al.</i> 2020<br />
-<a href="https://doi.org/10.1186/s12864-020-6685-y">Assessing graph-based read mappers against a baseline approach highlights strengths and weaknesses of current methods</a>
+Mérot <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1186/s12864-020-6685-y">A Roadmap for Understanding the Evolutionary Significance of Structural Genomic Variation</a>
 
 <b>April 3rd, 2020</b><br />
 Wang <i>et al.</i> 2020<br />
