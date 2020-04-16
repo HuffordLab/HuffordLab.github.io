@@ -11,7 +11,7 @@ Papers by date they are discussed:
 
 <b>April 17th, 2020</b><br />
 Xu <i>et al.</i> 2020<br />
-<a href="https://doi.org/10.1016/j.tree.2020.03.002">Adaptive evolution of DNA methylation reshaped gene regulation in maize</a>
+<a href="https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1">Adaptive evolution of DNA methylation reshaped gene regulation in maize</a>
 
 <b>April 10th, 2020</b><br />
 Mérot <i>et al.</i> 2020<br />
