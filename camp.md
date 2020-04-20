@@ -9,6 +9,10 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>April 24th, 2020</b><br />
+Moreno-Letelier <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1098/rsos.191545">The relevance of gene flow with wild relatives in understanding the domestication process</a>
+
 <b>April 17th, 2020</b><br />
 Xu <i>et al.</i> 2020<br />
 <a href="https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1">Adaptive evolution of DNA methylation reshaped gene regulation in maize</a>
