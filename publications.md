@@ -9,7 +9,6 @@ feature_text: |
 
 <b>Hufnagel, D.E., M.B. Hufford, A. S. Seetharam</b>. SequelTools: A suite of tools for working with PacBio Sequel raw sequence data. [<a href="https://www.biorxiv.org/content/10.1101/611814v2">preprint</a>]
 
-
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://www.biorxiv.org/content/10.1101/706739v1">preprint</a>]
 
 
