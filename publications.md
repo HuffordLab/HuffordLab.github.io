@@ -7,8 +7,6 @@ feature_text: |
 
 <B><font size = "5" color="black">In Review</font></b><br />
 
-Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. Gent, V. Llaca, M. Woodhouse, <b>N. Manchanda</b>, G. Presting, D. Kudrna, M. Alabady, C.N. Hirsch, K. Fengler, D. Ware, T. Michael, <b>M.B. Hufford</b>, R.K. Dawe. Gapless assembly of maize chromosomes using long read technologies. [<a href="https://www.biorxiv.org/content/10.1101/2020.01.14.906230v2">preprint</a>]
-
 <b>Hufnagel, D.E., M.B. Hufford, A. S. Seetharam</b>. SequelTools: A suite of tools for working with PacBio Sequel raw sequence data. [<a href="https://www.biorxiv.org/content/10.1101/611814v2">preprint</a>]
 
 
@@ -16,6 +14,8 @@ Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. So
 
 
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
+
+Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. Gent, V. Llaca, M. Woodhouse, <b>N. Manchanda</b>, G. Presting, D. Kudrna, M. Alabady, C.N. Hirsch, K. Fengler, D. Ware, T. Michael, <b>M.B. Hufford</b>, R.K. Dawe. 2020. Gapless assembly of maize chromosomes using long read technologies. <i>Genome Biology</i> In Press [<a href="https://www.biorxiv.org/content/10.1101/2020.01.14.906230v2">preprint</a>]
 
 <b>Ou, S.</b>, J. Liu, K.M. Chougule, A. Fungtammasan, <b>A.S. Seetharam</b>, J. Stein, V. Llaca, <b>N. Manchanda</b>, A.M. Gilbert, X. Wei, C. Chin, <b>D.E. Hufnagel, S. Pedersen, S. Snodgrass</b>, K. Fengler, M. Woodhouse, B.P. Walenz, S. Koren, A.M. Phillippy, B. Hannigan, R.K. Dawe, C.N. Hirsch, <b>M.B. Hufford</b>, Doreen Ware. 2020. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. <i>Nature Communications</i> In Press [<a href="https://www.biorxiv.org/content/10.1101/858365v2">preprint</a>]
 
