@@ -22,7 +22,7 @@ Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. G
 
 <b>Manchanda., N.</b>, J.L. Portwood, II, M.R. Woodhouse, <b>A.S. Seetharam</b>, C.M. Andorf, <b>M.B. Hufford</b>. 2020. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6568-2">GenomeQC: A quality assessment tool for genome assemblies and gene annotations</a>. <i>BMC Genomics</i> 21: 193
 
-Wang, B., Z. Lin, X. Li, Y. Zhao...J. Lai, <b>M.B. Hufford</b>, J. Ross-Ibarra, H. He, H. Wang. 2020. Genome-wide selection and genetic improvement during modern maize breeding. <i>Nature Genetics</i> In Press
+Wang, B., Z. Lin, X. Li, Y. Zhao...J. Lai, <b>M.B. Hufford</b>, J. Ross-Ibarra, H. He, H. Wang. 2020. <a href="https://www.nature.com/articles/s41588-020-0616-3">Genome-wide selection and genetic improvement during modern maize breeding</a>. <i>Nature Genetics</i> Online Early Edition
 
 Coffman, S.M., <b>M.B. Hufford</b>, C.M. Andorf, T. Lübberstedt. 2020. <a href="https://link.springer.com/article/10.1007%2Fs00122-019-03486-y">Haplotype structure in commercial maize breeding programs in relation to key founder lines</a>. <i>Theoretical and Applied Genetics</i> 133: 547-561
 
