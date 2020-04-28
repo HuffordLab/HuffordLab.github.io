@@ -9,6 +9,10 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>May 1st, 2020</b><br />
+Wang <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41588-020-0616-3">Genome-wide selection and genetic improvement during modern maize breeding</a>
+
 <b>April 24th, 2020</b><br />
 Moreno-Letelier <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1098/rsos.191545">The relevance of gene flow with wild relatives in understanding the domestication process</a>
