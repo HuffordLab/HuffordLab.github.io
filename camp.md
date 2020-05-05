@@ -9,6 +9,18 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>May 22nd, 2020</b><br />
+Wang <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41588-020-0616-3">Neo-functionalization of a <i>Teosinte branched 1</i> homologue mediates adaptations of upland rice</a>
+
+<b>May 15th, 2020</b><br />
+Josephs <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1093/molbev/msaa102">The evolutionary forces shaping cis and trans regulation of gene expression within a population of outcrossing plants</a>
+
+<b>May 8th, 2020</b><br />
+Skov <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41586-020-2225-9">The nature of Neanderthal introgression revealed by 27,566 Icelandic genomes</a>
+
 <b>May 1st, 2020</b><br />
 Wang <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41588-020-0616-3">Genome-wide selection and genetic improvement during modern maize breeding</a>
