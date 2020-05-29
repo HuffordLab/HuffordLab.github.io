@@ -9,7 +9,7 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>May 22nd, 2020</b><br />
+<b>May 29th, 2020</b><br />
 Lyu <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41467-019-14264-1">Neo-functionalization of a <i>Teosinte branched 1</i> homologue mediates adaptations of upland rice</a>
 
