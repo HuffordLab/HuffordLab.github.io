@@ -9,6 +9,14 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>June 12th, 2020</b><br />
+Abel <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41586-020-2371-0">Mapping and characterization of structural variation in 17,795 human genomes</a>
+
+<b>June 5th, 2020</b><br />
+Chen <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1371/journal.pgen.1008791">The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication</a>
+
 <b>May 29th, 2020</b><br />
 Lyu <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41467-019-14264-1">Neo-functionalization of a <i>Teosinte branched 1</i> homologue mediates adaptations of upland rice</a>
