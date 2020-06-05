@@ -9,9 +9,13 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>June 12th, 2020</b><br />
+<b>June 19th, 2020</b><br />
 Abel <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41586-020-2371-0">Mapping and characterization of structural variation in 17,795 human genomes</a>
+
+<b>June 12th, 2020</b><br />
+Burgess <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1534/genetics.120.303033">Silencing of <i>Mutator</i> Elements in Maize Involves Distinct Populations of Small RNAs and Distinct Patterns of DNA Methylation</a>
 
 <b>June 5th, 2020</b><br />
 Chen <i>et al.</i> 2020<br />
