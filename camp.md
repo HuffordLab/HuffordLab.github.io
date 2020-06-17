@@ -9,9 +9,13 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>June 19th, 2020</b><br />
+<b>June 26th, 2020</b><br />
 Abel <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41586-020-2371-0">Mapping and characterization of structural variation in 17,795 human genomes</a>
+
+<b>June 19th, 2020</b><br />
+Alonge <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1016/j.cell.2020.05.021">Major Impacts of Widespread Structural Variation on Gene Expression and Crop Improvement in Tomato</a>
 
 <b>June 12th, 2020</b><br />
 Burgess <i>et al.</i> 2020<br />
