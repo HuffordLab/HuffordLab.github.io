@@ -9,11 +9,11 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>July 10th, 2020</b><br />
+<b>July 24th, 2020</b><br />
 Abel <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41586-020-2371-0">Mapping and characterization of structural variation in 17,795 human genomes</a>
 
-<b>June 26th, 2020</b><br />
+<b>July 17th, 2020</b><br />
 Liu <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1016/j.cell.2020.05.023">Pan-Genome of Wild and Cultivated Soybeans</a>
 
