@@ -9,6 +9,10 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>July 31st, 2020</b><br />
+Haberer <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41588-020-0671-9">European maize genomes highlight intraspecies variation in repeat and gene content</a>
+
 <b>July 24th, 2020</b><br />
 Abel <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41586-020-2371-0">Mapping and characterization of structural variation in 17,795 human genomes</a>
