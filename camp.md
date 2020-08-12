@@ -9,6 +9,14 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>August 14th, 2020</b><br />
+Ma <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1111/tpj.14946">Whole‐genome <i>de novo</i> assemblies reveal extensive structural variations and dynamic organelle‐to‐nucleus DNA transfers in Asian and African rice</a>
+
+<b>August 7th, 2020</b><br />
+Liu <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1007/s11032-020-01152-6">Overexpression of <i>ZmDWF4</i> improves major agronomic traits and enhances yield in maize</a>
+
 <b>July 31st, 2020</b><br />
 Haberer <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41588-020-0671-9">European maize genomes highlight intraspecies variation in repeat and gene content</a>
