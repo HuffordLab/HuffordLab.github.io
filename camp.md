@@ -10,7 +10,7 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 Papers by date they are discussed:
 
 <b>August 21st, 2020</b><br />
-Weekly Chapter Discussions
+Weekly Chapter Discussions<br />
 Graham Coop 2020<br />
 <a href="https://github.com/cooplab/popgen-notes/blob/master/release_popgen_notes.pdf">Population and Quantitative Genetics</a>
 
