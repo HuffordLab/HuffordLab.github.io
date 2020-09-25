@@ -11,7 +11,7 @@ Papers by date they are discussed:
 
 <b>August 21st, 2020</b><br />
 Weekly Chapter Discussions<br />
-Graham Coop 2020<br />
+Graham Coop, March 2020<br />
 <a href="https://github.com/cooplab/popgen-notes/blob/master/release_popgen_notes.pdf">Population and Quantitative Genetics</a>
 
 <b>August 14th, 2020</b><br />
