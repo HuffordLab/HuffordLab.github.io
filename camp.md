@@ -9,6 +9,11 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>August 21st, 2020</b><br />
+Weekly Chapter Discussions
+Graham Coop 2020<br />
+<a href="https://github.com/cooplab/popgen-notes/blob/master/release_popgen_notes.pdf">Population and Quantitative Genetics</a>
+
 <b>August 14th, 2020</b><br />
 Ma <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1111/tpj.14946">Whole‐genome <i>de novo</i> assemblies reveal extensive structural variations and dynamic organelle‐to‐nucleus DNA transfers in Asian and African rice</a>
