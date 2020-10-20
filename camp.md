@@ -9,6 +9,18 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>October 28th, 2020</b><br />
+A. Forrest Troyer 2020<br />
+<a href="https://doi.org/10.2135/cropsci1999.0011183X003900020001xa">Background of U.S. Hybrid Corn</a>
+
+<b>October 21st, 2020</b><br />
+Le Corre <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1073/pnas.2006633117">Adaptive introgression from maize has facilitated the establishment of teosinte as a noxious weed in Europe</a>
+
+<b>October 14th, 2020</b><br />
+Noshay <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1101/2020.05.20.107169">Cis-regulatory elements within TEs can influence expression of nearby maize genes</a>
+
 <b>August 21st, 2020</b><br />
 Weekly Chapter Discussions<br />
 Graham Coop, March 2020<br />
