@@ -11,7 +11,7 @@ Papers by date they are discussed:
 
 <b>October 28th, 2020</b><br />
 A. Forrest Troyer 2020<br />
-<a href="https://doi.org/10.2135/cropsci1999.0011183X003900020001xa">Background of U.S. Hybrid Corn</a>
+<a href="https://acsess.onlinelibrary.wiley.com/doi/abs/10.2135/cropsci1999.0011183X003900020001xa">Background of U.S. Hybrid Corn</a>
 
 <b>October 21st, 2020</b><br />
 Le Corre <i>et al.</i> 2020<br />
