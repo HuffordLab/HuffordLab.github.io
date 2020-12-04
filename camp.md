@@ -10,11 +10,11 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 Papers by date they are discussed:
 
 <b>August 2020 - December 2020</b><br />
-Course: EEOB 561 Evolutionary and Ecological Genomics<br />
+Course: Evolutionary and Ecological Genomics (EEOB561)<br />
 Weekly Quantitative Genetics Lecture Discussions<br />
 Graham Coop, March 2020<br />
-<a href="https://github.com/cooplab/popgen-notes/blob/master/release_popgen_notes.pdf">Population and Quantitative Genetics</a><br />
-<a href="https://figshare.com/articles/presentation/Lecture_Slides_for_G_Coop_Pop_Quant_Genetics/13239683">Figshare Lecture Slides</a>
+<a href="https://github.com/cooplab/popgen-notes/blob/master/release_popgen_notes.pdf">Graham Coop - Population and Quantitative Genetics</a><br />
+<a href="https://figshare.com/articles/presentation/Lecture_Slides_for_G_Coop_Pop_Quant_Genetics/13239683">EEOB561 Figshare Lecture Slides</a>
 
 <b>October 28th, 2020</b><br />
 A. Forrest Troyer 2020<br />
