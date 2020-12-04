@@ -13,7 +13,7 @@ Papers by date they are discussed:
 Course: EEOB 561 Evolutionary and Ecological Genomics<br />
 Weekly Quantitative Genetics Lecture Discussions<br />
 Graham Coop, March 2020<br />
-<a href="https://github.com/cooplab/popgen-notes/blob/master/release_popgen_notes.pdf">Population and Quantitative Genetics</a>
+<a href="https://github.com/cooplab/popgen-notes/blob/master/release_popgen_notes.pdf">Population and Quantitative Genetics</a><br />
 <a href="https://figshare.com/articles/presentation/Lecture_Slides_for_G_Coop_Pop_Quant_Genetics/13239683">FigShare Lecture Slides</a>
 
 <b>October 28th, 2020</b><br />
