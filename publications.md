@@ -51,7 +51,7 @@ Trujillo, J., <b>A. Seetharam, M.B. Hufford</b>, M. Beilstein, R. Mosher. 2018. 
 Aburto-Oropeza, O., A. D. de la Vega, A. Ortinez...<b>M.B. Hufford</b>...V. H. P. Figueroa, S. Dominguez, W. Mautz. 2018. <a href="https://doi.org/10.1016/j.envsci.2018.01.001">Harnessing cross-border resources to confront climate change</a>. <i>Environmental Science and Policy</i> 87: 128-132
 
 <b>Wang, L.</b>, T.M. Beissinger, A. Lorant, C. Ross-Ibarra, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2017. <a href="https://doi.org/10.1186/s13059-017-1346-4">The interplay of demography and selection during maize domestication and expansion</a>. <i>Genome Biology</i> 18: 215<br>
-*Video Abstract highlighting Wang et al.’s main findings can be found <a href="https://www.youtube.com/watch?reload=9&v=KgIUGHEZ2nM">here</a>
+*Video Abstract highlighting Wang et al.’s main findings can be found <a href="https://www.youtube.com/watch?reload=9&v=KgIUGHEZ2nM">here</a>*
 
 Lorant, A., <b>S. Pedersen</b>, I. Holst, <b>M.B. Hufford</b>, K. Winter, D. Piperno, J. Ross-Ibarra. 2017. <a href="https://doi.org/10.1371/journal.pone.0184202">The potential role of genetic assimilation during maize domestication</a>. <i>PLoS ONE</i> 12: e0184202
 
