@@ -73,7 +73,7 @@ Fonseca R. R., B. Smith, N. Wales, E. Cappellini, P. Skoglund, M. Fumagalli, J. 
 
 Pyhäjärvi T., <b>Hufford M.B.</b>, Mezmouk S., Ross-Ibarra J. 2013. <a href="https://doi.org/10.1093/gbe/evt109">Complex patterns of local adaptation in teosinte</a>. <i>Genome Biology and Evolution</i> 5: 1594-1609
 
-<b>Hufford, M. B.</b>, P. Lubinsky, T. Pyhäjärvi, M. T. Devengenzo, N. C. Ellstrand, J. Ross-Ibarra. 2013. <a href="https://doi.org/10.1371/journal.pgen.1003477">The genomic signature of crop-wild introgression in maize</a>. <i>PLoS Genetics</i> 9: e1003477
+<b>Hufford, M.B.</b>, P. Lubinsky, T. Pyhäjärvi, M. T. Devengenzo, N. C. Ellstrand, J. Ross-Ibarra. 2013. <a href="https://doi.org/10.1371/journal.pgen.1003477">The genomic signature of crop-wild introgression in maize</a>. <i>PLoS Genetics</i> 9: e1003477
 
 Kanizay, L. B., T. Pyhäjärvi, E. G. Lowry, <b>M. B. Hufford</b>, D. G. Peterson, J. Ross-Ibarra, R. K. Dawe. 2013. <a href="https://doi.org/10.1038/hdy.2013.2">Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in Zea mays</a>. <i>Heredity</i> 110: 570-577
 
