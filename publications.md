@@ -8,21 +8,21 @@ feature_text: |
 <B><font size = "5" color="black">In Review</font></b><br />
 
 
-<b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, M.R. Woodhouse, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, Q. Jiang, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. <i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes. [<a href="https://doi.org/10.1101/2021.01.14.426684">preprint</a>]
+<b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, M.R. Woodhouse, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, Q. Jiang, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. <i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes. <a href="https://doi.org/10.1101/2021.01.14.426684">preprint</a>
 
-Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://doi.org/10.1101/706739">preprint</a>]
+Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. <a href="https://doi.org/10.1101/706739">preprint</a>
 
 
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
 
-Della Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>. 2021. [<a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>]. <i>Genome Biology</i> 22: 3
+Della Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>. 2021. <a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>. <i>Genome Biology</i> 22: 3
 
-Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. Gent, V. Llaca, M. Woodhouse, <b>N. Manchanda</b>, G. Presting, D. Kudrna, M. Alabady, C.N. Hirsch, K. Fengler, D. Ware, T. Michael, <b>M.B. Hufford</b>, R.K. Dawe. 2020. [<a href="https://doi.org/10.1186/s13059-020-02029-9">Gapless assembly of maize chromosomes using long read technologies</a>]. <i>Genome Biology</i> 21: 121
+Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. Gent, V. Llaca, M. Woodhouse, <b>N. Manchanda</b>, G. Presting, D. Kudrna, M. Alabady, C.N. Hirsch, K. Fengler, D. Ware, T. Michael, <b>M.B. Hufford</b>, R.K. Dawe. 2020. <a href="https://doi.org/10.1186/s13059-020-02029-9">Gapless assembly of maize chromosomes using long read technologies</a>. <i>Genome Biology</i> 21: 121
 
-<b>Hufnagel, D.E., M.B. Hufford, A. S. Seetharam</b>. 2020. [<a href="https://doi.org/10.1186/s12859-020-03751-8">SequelTools: A suite of tools for working with PacBio Sequel raw sequence data</a>]. <i>BMC Bioinformatics</i> 21: 429
+<b>Hufnagel, D.E., M.B. Hufford, A. S. Seetharam</b>. 2020. <a href="https://doi.org/10.1186/s12859-020-03751-8">SequelTools: A suite of tools for working with PacBio Sequel raw sequence data</a>. <i>BMC Bioinformatics</i> 21: 429
 
-<b>Ou, S.</b>, J. Liu, K.M. Chougule, A. Fungtammasan, <b>A.S. Seetharam</b>, J. Stein, V. Llaca, <b>N. Manchanda</b>, A.M. Gilbert, X. Wei, C. Chin, <b>D.E. Hufnagel, S. Pedersen, S. Snodgrass</b>, K. Fengler, M. Woodhouse, B.P. Walenz, S. Koren, A.M. Phillippy, B. Hannigan, R.K. Dawe, C.N. Hirsch, <b>M.B. Hufford</b>, Doreen Ware. 2020. [<a href="https://doi.org/10.1038/s41467-020-16037-7">Effect of sequence depth and length in long-read assembly of the maize inbred NC358</a>] <i>Nature Communications</i> 11: 2288
+<b>Ou, S.</b>, J. Liu, K.M. Chougule, A. Fungtammasan, <b>A.S. Seetharam</b>, J. Stein, V. Llaca, <b>N. Manchanda</b>, A.M. Gilbert, X. Wei, C. Chin, <b>D.E. Hufnagel, S. Pedersen, S. Snodgrass</b>, K. Fengler, M. Woodhouse, B.P. Walenz, S. Koren, A.M. Phillippy, B. Hannigan, R.K. Dawe, C.N. Hirsch, <b>M.B. Hufford</b>, Doreen Ware. 2020. <a href="https://doi.org/10.1038/s41467-020-16037-7">Effect of sequence depth and length in long-read assembly of the maize inbred NC358</a> <i>Nature Communications</i> 11: 2288
 
 <b>Manchanda., N.</b>, J.L. Portwood, II, M.R. Woodhouse, <b>A.S. Seetharam</b>, C.M. Andorf, <b>M.B. Hufford</b>. 2020. <a href="https://doi.org/10.1186/s12864-020-6568-2">GenomeQC: A quality assessment tool for genome assemblies and gene annotations</a>. <i>BMC Genomics</i> 21: 193
 
