@@ -5,7 +5,7 @@ feature_text: |
   ## <span style="color:white">Publications</span>
 ---
 
-<B><font size = "5" color="black">In Review</font></b>
+<B><font size = "5" color="black">In Review</font></b><br />
 
 
 <b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, M.R. Woodhouse, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, Q. Jiang, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. <i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes. [<a href="https://doi.org/10.1101/2021.01.14.426684">preprint</a>]
@@ -13,7 +13,7 @@ feature_text: |
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://doi.org/10.1101/706739">preprint</a>]
 
 
-<B><font size = "5" color="black">Published Manuscripts</font></b>
+<B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
 
 Della Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>. 2021. <a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>. <i>Genome Biology</i> 22: 3
@@ -73,7 +73,7 @@ Fonseca R. R., B. Smith, N. Wales, E. Cappellini, P. Skoglund, M. Fumagalli, J. 
 
 Pyhäjärvi T., <b>Hufford M.B.</b>, Mezmouk S., Ross-Ibarra J. 2013. <a href="https://doi.org/10.1093/gbe/evt109">Complex patterns of local adaptation in teosinte</a>. <i>Genome Biology and Evolution</i> 5: 1594-1609
 
-<b>Hufford, M.B.</b>, P. Lubinsky, T. Pyhäjärvi, M. T. Devengenzo, N. C. Ellstrand, J. Ross-Ibarra. 2013. <a href="https://doi.org/10.1371/journal.pgen.1003477">The genomic signature of crop-wild introgression in maize</a>. <i>PLoS Genetics</i> 9: e1003477
+<b>Hufford, M. B.</b>, P. Lubinsky, T. Pyhäjärvi, M. T. Devengenzo, N. C. Ellstrand, J. Ross-Ibarra. 2013. <a href="https://doi.org/10.1371/journal.pgen.1003477">The genomic signature of crop-wild introgression in maize</a>. <i>PLoS Genetics</i> 9: e1003477
 
 Kanizay, L. B., T. Pyhäjärvi, E. G. Lowry, <b>M. B. Hufford</b>, D. G. Peterson, J. Ross-Ibarra, R. K. Dawe. 2013. <a href="https://doi.org/10.1038/hdy.2013.2">Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in Zea mays</a>. <i>Heredity</i> 110: 570-577
 

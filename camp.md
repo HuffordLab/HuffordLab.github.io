@@ -9,6 +9,23 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>February 12th, 2021</b><br />
+Peng <i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1038/s41598-017-04744-z">Genetic analyses reveal independent domestication origins of the emerging oil crop <i>Paeonia ostii</i>, a tree peony with a long-term cultivation history</a>
+Yang <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41438-020-0332-2">Germplasm resources and genetic breeding of <i>Paeonia</i>: a systematic review.</a>
+
+<b>February 5th, 2021</b><br />
+	<i>To Be Determined</i>
+
+<b>January 29th, 2021</b><br />
+Jay <i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1038/s41588-020-00771-1">Mutation load at a mimicry supergene sheds new light on the evolution of inversion polymorphisms</a>
+
+<b>January 22nd, 2021</b><br />
+Lozano <i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1038/s41477-020-00834-5">Comparative evolutionary genetics of deleterious load in sorghum and maize</a>
+
 <b>August 2020 - December 2020</b><br />
 Course: Evolutionary and Ecological Genomics (EEOB561)<br />
 Weekly Quantitative Genetics Lecture Discussions<br />
