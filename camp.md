@@ -16,7 +16,8 @@ Yang <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41438-020-0332-2">Germplasm resources and genetic breeding of <i>Paeonia</i>: a systematic review.</a>
 
 <b>February 5th, 2021</b><br />
-	<i>To Be Determined</i>
+Lovell <i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1038/s41586-020-03127-1">Genomic mechanisms of climate adaptation in polyploid bioenergy switchgrass</a>
 
 <b>January 29th, 2021</b><br />
 Jay <i>et al.</i> 2021<br />
