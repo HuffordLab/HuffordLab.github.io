@@ -12,7 +12,7 @@ feature_text: |
 
 F. Rodríguez-Zapata, A.C Barnes, K.A. Blöcher-Juárez, D. Gates, A. Kur, <b>L. Wang</b>, <b>G.M. Janzen</b>, S. Jensen, J.M. Estévez-Palmas, T. Crow, R. Aguilar-Rangel, E. Demesa-Arevalo, T. Skopelitis, S. Pérez-Limón, W.L. Stutts, P. Thompson, Y. Chiu, F. Jackson, O. Fiehn, D. Runcie, E.S. Buckler, J. Ross-Ibarra, <b>M.B. Hufford</b>,  R.J.H Sawers,  R. Rellán-Álvarez. Teosinte introgression modulates phosphatidylcholine levels and induces early maize flowering time. [<a href="https://doi.org/10.1101/2021.01.25.426574">preprint</a>]
 
-L. Wang, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
+<b>L. Wang</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
 
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://doi.org/10.1101/706739">preprint</a>]
 
