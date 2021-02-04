@@ -20,7 +20,7 @@ Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. So
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
 
-Della Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>. 2021. <a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>. <i>Genome Biology</i> 22: 3
+Della Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>, Candice N. Hirsch. 2021. <a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>. <i>Genome Biology</i> 22: 3
 
 Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. Gent, V. Llaca, M. Woodhouse, <b>N. Manchanda</b>, G. Presting, D. Kudrna, M. Alabady, C.N. Hirsch, K. Fengler, D. Ware, T. Michael, <b>M.B. Hufford</b>, R.K. Dawe. 2020. <a href="https://doi.org/10.1186/s13059-020-02029-9">Gapless assembly of maize chromosomes using long read technologies</a>. <i>Genome Biology</i> 21: 121
 
