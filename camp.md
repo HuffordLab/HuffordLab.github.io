@@ -10,6 +10,9 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 Papers by date they are discussed:
 
 <b>February 12th, 2021</b><br />
+Maize Meeting Abstract Workshop
+
+<b>February 12th, 2021</b><br />
 Peng <i>et al.</i> 2017<br />
 <a href="https://doi.org/10.1038/s41598-017-04744-z">Genetic analyses reveal independent domestication origins of the emerging oil crop <i>Paeonia ostii</i>, a tree peony with a long-term cultivation history</a>
 Yang <i>et al.</i> 2020<br />
