@@ -19,9 +19,8 @@ Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. So
 
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
-A.L. Verzegnazzi, I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt . 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 58
 
-D. Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>. 2021. <a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>. <i>Genome Biology</i> 22: 3
+Della Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>, Candice N. Hirsch. 2021. <a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>. <i>Genome Biology</i> 22: 3
 
 Liu, J., <b>A.S. Seetharam</b>, K. Chougule, <b>S. Ou</b>, K. Swentowsky, J.I. Gent, V. Llaca, M. Woodhouse, <b>N. Manchanda</b>, G. Presting, D. Kudrna, M. Alabady, C.N. Hirsch, K. Fengler, D. Ware, T. Michael, <b>M.B. Hufford</b>, R.K. Dawe. 2020. <a href="https://doi.org/10.1186/s13059-020-02029-9">Gapless assembly of maize chromosomes using long read technologies</a>. <i>Genome Biology</i> 21: 121
 
