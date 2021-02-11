@@ -9,12 +9,17 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>February 12th, 2021</b><br />
-Maize Meeting Abstract Workshop
+<b>February 26th, 2021</b><br />
+Kistler <i>et al.</i> 2020<br />
+<a href="https://www.pnas.org/content/117/52/33124">Archaeological Central American maize genomes suggest ancient gene flow from South America</a>
+
+<b>February 19th, 2021</b><br />
+Maize Meeting Poster Workshop
 
 <b>February 12th, 2021</b><br />
 Peng <i>et al.</i> 2017<br />
 <a href="https://doi.org/10.1038/s41598-017-04744-z">Genetic analyses reveal independent domestication origins of the emerging oil crop <i>Paeonia ostii</i>, a tree peony with a long-term cultivation history</a>
+
 Yang <i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41438-020-0332-2">Germplasm resources and genetic breeding of <i>Paeonia</i>: a systematic review.</a>
 
