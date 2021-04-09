@@ -9,10 +9,14 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>April 9th, 2021</b><br />
+
+<b>April 23rd, 2021</b><br />
+McLean-Rodríguez <i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1038/s41437-021-00423-y">Genetic diversity and selection signatures in maize landraces compared across 50 years of in situ and ex situ conservation</a>
+
+<b>April 16th, 2021</b><br />
 Shi <i>et al.</i> 2021<br />
 <a href="https://doi.org/10.1101/2021.03.27.436702">Structural variant selection for high-altitude adaptation using single-molecule long-read sequencing</a>
-
 
 <b>April 2nd, 2021</b><br />
 Burban <i>et al.</i> 2021<br />
