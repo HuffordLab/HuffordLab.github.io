@@ -7,6 +7,9 @@ feature_text: |
 
 <B><font size = "5" color="black">In Review</font></b><br />
 
+<b>Seetharam, A.S.</b>, Y. Yu, S. Belanger, L.G. Clark, B.C. Meyers, E.A. Kellogg, <b>M.B. Hufford.</b> The Streptochaeta genome and the evolution of the grasses.
+
+<b>Janzen, G.M.,</b> M.R. Aguilar-Rangel, C. Cíntora-Martínez, K.A. Blöcher-Juárez, E. González-Segovia, A.J. Studer, D.E. Runcie, S.A. Flint-Garcia, R. Rellán-Álvarez, R.J.H. Sawers, <b>M.B. Hufford.</b> Demonstration of local adaptation in maize landraces by reciprocal transplantation. [<a href="https://www.biorxiv.org/content/10.1101/2021.03.25.437076v1">preprint</a>]
 
 <b>D.E. Hufnagel, K. Kananen</b>, J.C. Glaubitz, J. de Jesus Sanchez-Gonzalez, J.F. Doebley, <b>M.B. Hufford</b>. Evidence for Multiple Teosinte Hybrid Zones in Central Mexico. [<a href="https://doi.org/10.1101/2021.02.11.430632">preprint</a>]
 
@@ -14,15 +17,19 @@ feature_text: |
 
 F. Rodríguez-Zapata, A.C Barnes, K.A. Blöcher-Juárez, D. Gates, A. Kur, <b>L. Wang</b>, <b>G.M. Janzen</b>, S. Jensen, J.M. Estévez-Palmas, T. Crow, R. Aguilar-Rangel, E. Demesa-Arevalo, T. Skopelitis, S. Pérez-Limón, W.L. Stutts, P. Thompson, Y. Chiu, F. Jackson, O. Fiehn, D. Runcie, E.S. Buckler, J. Ross-Ibarra, <b>M.B. Hufford</b>,  R.J.H Sawers,  R. Rellán-Álvarez. Teosinte introgression modulates phosphatidylcholine levels and induces early maize flowering time. [<a href="https://doi.org/10.1101/2021.01.25.426574">preprint</a>]
 
-<b>L. Wang</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
-
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://doi.org/10.1101/706739">preprint</a>]
 
 
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
+Song, B., E.S. Buckler, H. Wang, Y. Wu, E. Rees, E.A. Kellogg, D.J. Gates, M. Khaipho-Burch, P.J. Bradbury, J. Ross-Ibarra, <b>M.B. Hufford,</b> M.C. Romay. 2021. Conserved non-coding sequences provide insights into regulatory sequence and loss of gene expression in maize. In Press at <i>Genome Research</i> [<a href="https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2">preprint</a>]
 
-A.V. Verzegnazzi, I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt. 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 58
+Bornowski, N., K.J. Michel, J.P. Hamilton, <b>S. Ou, A.S. Seetharam,</b> J. Jenkins, J. Grimwood, C. Plott, S. Shu, J. Talag, M. Kennedy, H. Hundley, V.R. Singan, K. Barry, C. Daum, Y. Yoshinaga, J. Schmutz, C.N. Hirsch, <b>M.B. Hufford,</b> N. de Leon, S.M. Kaeppler, C.R Buell. 2021. Genomic variation within the maize Stiff Stalk heterotic germplasm pool. In Press at <i>The Plant Genome</i> 
+
+
+<b>Wang, L.</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. In Press at <i>Molecular Biology and Evolution</i> [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
+
+Verzegnazzi, A.V., I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt. 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 134: 1423-1434
 
 D. Coletta, R., Qiu, Y., <b>Ou, S.</b>, <b>M.B. Hufford</b>, C.N. Hirsch. 2021. <a href="https://doi.org/10.1186/s13059-020-02224-8">How the pan-genome is changing crop genomics and improvement</a>. <i>Genome Biology</i> 22: 3
 
