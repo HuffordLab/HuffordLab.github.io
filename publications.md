@@ -5,7 +5,7 @@ feature_text: |
   ## <span style="color:white">Publications</span>
 ---
 
-<B><font size = "5" color="black">In Review</font></b><br />
+<B><font size = "5" color="black">In Review:</font></b><br />
 
 <b>Seetharam, A.S.</b>, Y. Yu, S. Belanger, L.G. Clark, B.C. Meyers, E.A. Kellogg, <b>M.B. Hufford.</b> The Streptochaeta genome and the evolution of the grasses.
 
@@ -20,7 +20,7 @@ F. Rodríguez-Zapata, A.C Barnes, K.A. Blöcher-Juárez, D. Gates, A. Kur, <b>L.
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://doi.org/10.1101/706739">preprint</a>]
 
 
-<B><font size = "5" color="black">Published Manuscripts</font></b><br />
+<B><font size = "5" color="black">Published Manuscripts:</font></b><br />
 
 Song, B., E.S. Buckler, H. Wang, Y. Wu, E. Rees, E.A. Kellogg, D.J. Gates, M. Khaipho-Burch, P.J. Bradbury, J. Ross-Ibarra, <b>M.B. Hufford,</b> M.C. Romay. 2021. Conserved non-coding sequences provide insights into regulatory sequence and loss of gene expression in maize. In Press at <i>Genome Research</i> [<a href="https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2">preprint</a>]
 
