@@ -7,7 +7,7 @@ feature_text: |
 
 <B><font size = "5" color="black">In Review:</font></b><br />
 
-<b>Seetharam, A.S.</b>, Y. Yu, S. Belanger, L.G. Clark, B.C. Meyers, E.A. Kellogg, <b>M.B. Hufford.</b> The Streptochaeta genome and the evolution of the grasses.
+<b>Seetharam, A.S.</b>, Y. Yu, S. Belanger, L.G. Clark, B.C. Meyers, E.A. Kellogg, <b>M.B. Hufford.</b> The Streptochaeta genome and the evolution of the grasses. [<a href="https://www.biorxiv.org/content/10.1101/2021.06.08.444730v1">preprint</a>]
 
 <b>Janzen, G.M.,</b> M.R. Aguilar-Rangel, C. Cíntora-Martínez, K.A. Blöcher-Juárez, E. González-Segovia, A.J. Studer, D.E. Runcie, S.A. Flint-Garcia, R. Rellán-Álvarez, R.J.H. Sawers, <b>M.B. Hufford.</b> Demonstration of local adaptation in maize landraces by reciprocal transplantation. [<a href="https://www.biorxiv.org/content/10.1101/2021.03.25.437076v1">preprint</a>]
 
