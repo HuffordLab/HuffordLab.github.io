@@ -27,7 +27,7 @@ Song, B., E.S. Buckler, H. Wang, Y. Wu, E. Rees, E.A. Kellogg, D.J. Gates, M. Kh
 Bornowski, N., K.J. Michel, J.P. Hamilton, <b>S. Ou, A.S. Seetharam,</b> J. Jenkins, J. Grimwood, C. Plott, S. Shu, J. Talag, M. Kennedy, H. Hundley, V.R. Singan, K. Barry, C. Daum, Y. Yoshinaga, J. Schmutz, C.N. Hirsch, <b>M.B. Hufford,</b> N. de Leon, S.M. Kaeppler, C.R Buell. 2021. Genomic variation within the maize Stiff Stalk heterotic germplasm pool. In Press at <i>The Plant Genome</i> 
 
 
-<b>Wang, L.</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. In Press at <i>Molecular Biology and Evolution</i> [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
+<b>Wang, L.</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2021. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. In Press at <i>Molecular Biology and Evolution</i> [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
 
 Verzegnazzi, A.V., I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt. 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 134: 1423-1434
 
