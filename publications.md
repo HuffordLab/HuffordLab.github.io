@@ -22,10 +22,11 @@ Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. So
 
 <B><font size = "5" color="black">Published Manuscripts:</font></b><br />
 
+<b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, M.R. Woodhouse, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, <b>Q. Jiang</b>, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. 2021. <i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes. In Press at <i>Science</i> [<a href="https://doi.org/10.1101/2021.01.14.426684">preprint</a>]
+
 Song, B., E.S. Buckler, H. Wang, Y. Wu, E. Rees, E.A. Kellogg, D.J. Gates, M. Khaipho-Burch, P.J. Bradbury, J. Ross-Ibarra, <b>M.B. Hufford,</b> M.C. Romay. 2021. Conserved non-coding sequences provide insights into regulatory sequence and loss of gene expression in maize. In Press at <i>Genome Research</i> [<a href="https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2">preprint</a>]
 
 Bornowski, N., K.J. Michel, J.P. Hamilton, <b>S. Ou, A.S. Seetharam,</b> J. Jenkins, J. Grimwood, C. Plott, S. Shu, J. Talag, M. Kennedy, H. Hundley, V.R. Singan, K. Barry, C. Daum, Y. Yoshinaga, J. Schmutz, C.N. Hirsch, <b>M.B. Hufford,</b> N. de Leon, S.M. Kaeppler, C.R Buell. 2021. Genomic variation within the maize Stiff Stalk heterotic germplasm pool. In Press at <i>The Plant Genome</i> 
-
 
 <b>Wang, L.</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2021. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. In Press at <i>Molecular Biology and Evolution</i> [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
 
