@@ -5,24 +5,32 @@ feature_text: |
   ## <span style="color:white">Publications</span>
 ---
 
-<B><font size = "5" color="black">In Review</font></b><br />
+<B><font size = "5" color="black">In Review:</font></b><br />
 
+Chen, L., J. Luo, M. Jin, N. Yang, X. Liu, Y. Peng, W. Li, L. Qing, Y. Yin, X. Ye, J. Yan, Q. Zhang, X. Zhang, S. Gui, S. Wu, Y. Wang, Y. Luo, C. Jiang, M. Deng, M. Jin, L. Jian, Y. Yu, M. Zhang, X. Yang, <b>M.B. Hufford</b>, A.R. Fernie, M.L. Warburton, J. Ross-Ibarra, J. 
+Yan. Portrait of a genus: the genetic diversity of <i>Zea</i>. [<a href="https://www.biorxiv.org/content/10.1101/2021.04.07.438828v1.full">preprint</a>]
+
+<b>Seetharam, A.S.</b>, Y. Yu, S. Belanger, L.G. Clark, B.C. Meyers, E.A. Kellogg, <b>M.B. Hufford.</b> The Streptochaeta genome and the evolution of the grasses. [<a href="https://www.biorxiv.org/content/10.1101/2021.06.08.444730v1">preprint</a>]
+
+<b>Janzen, G.M.,</b> M.R. Aguilar-Rangel, C. Cíntora-Martínez, K.A. Blöcher-Juárez, E. González-Segovia, A.J. Studer, D.E. Runcie, S.A. Flint-Garcia, R. Rellán-Álvarez, R.J.H. Sawers, <b>M.B. Hufford.</b> Demonstration of local adaptation in maize landraces by reciprocal transplantation. [<a href="https://www.biorxiv.org/content/10.1101/2021.03.25.437076v1">preprint</a>]
 
 <b>D.E. Hufnagel, K. Kananen</b>, J.C. Glaubitz, J. de Jesus Sanchez-Gonzalez, J.F. Doebley, <b>M.B. Hufford</b>. Evidence for Multiple Teosinte Hybrid Zones in Central Mexico. [<a href="https://doi.org/10.1101/2021.02.11.430632">preprint</a>]
 
 F. Rodríguez-Zapata, A.C Barnes, K.A. Blöcher-Juárez, D. Gates, A. Kur, <b>L. Wang</b>, <b>G.M. Janzen</b>, S. Jensen, J.M. Estévez-Palmas, T. Crow, R. Aguilar-Rangel, E. Demesa-Arevalo, T. Skopelitis, S. Pérez-Limón, W.L. Stutts, P. Thompson, Y. Chiu, F. Jackson, O. Fiehn, D. Runcie, E.S. Buckler, J. Ross-Ibarra, <b>M.B. Hufford</b>,  R.J.H Sawers,  R. Rellán-Álvarez. Teosinte introgression modulates phosphatidylcholine levels and induces early maize flowering time. [<a href="https://doi.org/10.1101/2021.01.25.426574">preprint</a>]
 
-<b>L. Wang</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
-
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://doi.org/10.1101/706739">preprint</a>]
 
 
-<B><font size = "5" color="black">Published Manuscripts</font></b><br />
+<B><font size = "5" color="black">Published Manuscripts:</font></b><br />
 
+<b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, M.R. Woodhouse, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, <b>Q. Jiang</b>, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. 2021. [<a href="https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2">
+<i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes</a>. <i>Science</i> 373: 655-662
 
-<b>M.B. Hufford, A.S. Seetharam, M.R. Woodhouse</b>, K.M. Chougule, S. Ou, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R. Della Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O’Connor, X. Li, A.M. Gilbert, E.Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda, S.J. Snodgrass, D.E. Hufnagel, Q. Jiang, S. Pedersen, M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe
+Song, B., E.S. Buckler, H. Wang, Y. Wu, E. Rees, E.A. Kellogg, D.J. Gates, M. Khaipho-Burch, P.J. Bradbury, J. Ross-Ibarra, <b>M.B. Hufford,</b> M.C. Romay. 2021. Conserved non-coding sequences provide insights into regulatory sequence and loss of gene expression in maize. In Press at <i>Genome Research</i> [<a href="https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2">preprint</a>]
 
-A.V. Verzegnazzi, I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt. 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 58
+Bornowski, N., K.J. Michel, J.P. Hamilton, <b>S. Ou, A.S. Seetharam,</b> J. Jenkins, J. Grimwood, C. Plott, S. Shu, J. Talag, M. Kennedy, H. Hundley, V.R. Singan, K. Barry, C. Daum, Y. Yoshinaga, J. Schmutz, C.N. Hirsch, <b>M.B. Hufford,</b> N. de Leon, S.M. Kaeppler, C.R Buell. 2021. Genomic variation within the maize Stiff Stalk heterotic germplasm pool. In Press at <i>The Plant Genome</i> 
+
+<b>Wang, L.</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. 2021. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. In Press at <i>Molecular Biology and Evolution</i> [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
 
 A.V. Verzegnazzi, I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt. 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 58
 
