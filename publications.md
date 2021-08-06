@@ -10,8 +10,6 @@ feature_text: |
 
 <b>D.E. Hufnagel, K. Kananen</b>, J.C. Glaubitz, J. de Jesus Sanchez-Gonzalez, J.F. Doebley, <b>M.B. Hufford</b>. Evidence for Multiple Teosinte Hybrid Zones in Central Mexico. [<a href="https://doi.org/10.1101/2021.02.11.430632">preprint</a>]
 
-<b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, M.R. Woodhouse, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, <b>Q. Jiang</b>, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. <i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes. [<a href="https://doi.org/10.1101/2021.01.14.426684">preprint</a>]
-
 F. Rodríguez-Zapata, A.C Barnes, K.A. Blöcher-Juárez, D. Gates, A. Kur, <b>L. Wang</b>, <b>G.M. Janzen</b>, S. Jensen, J.M. Estévez-Palmas, T. Crow, R. Aguilar-Rangel, E. Demesa-Arevalo, T. Skopelitis, S. Pérez-Limón, W.L. Stutts, P. Thompson, Y. Chiu, F. Jackson, O. Fiehn, D. Runcie, E.S. Buckler, J. Ross-Ibarra, <b>M.B. Hufford</b>,  R.J.H Sawers,  R. Rellán-Álvarez. Teosinte introgression modulates phosphatidylcholine levels and induces early maize flowering time. [<a href="https://doi.org/10.1101/2021.01.25.426574">preprint</a>]
 
 <b>L. Wang</b>, E.B. Josephs, K.M. Lee, L.M. Roberts, R. Rellán-Álvarez, J. Ross-Ibarra, <b>M.B. Hufford</b>. Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. [<a href="https://doi.org/10.1101/2020.07.31.227629">preprint</a>]
@@ -21,6 +19,10 @@ Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. So
 
 <B><font size = "5" color="black">Published Manuscripts</font></b><br />
 
+
+<b>M.B. Hufford, A.S. Seetharam, M.R. Woodhouse</b>, K.M. Chougule, S. Ou, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R. Della Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O’Connor, X. Li, A.M. Gilbert, E.Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda, S.J. Snodgrass, D.E. Hufnagel, Q. Jiang, S. Pedersen, M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe
+
+A.V. Verzegnazzi, I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt. 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 58
 
 A.V. Verzegnazzi, I. Gonçalves dos Santos, M.D. Krause, <b>M. Hufford</b>, U.K Frei, J. Campbell, V. Costa Almeida, L.T. Zuffo, N. Boerman & T. Lübberstedt. 2021. <a href="https://doi.org/10.1007/s00122-021-03780-8">Major locus for spontaneous haploid genome doubling detected by a case–control GWAS in exotic maize germplasm</a>. <i>Theoretical and Applied Genetics</i> 58
 
