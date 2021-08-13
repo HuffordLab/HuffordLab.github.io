@@ -6,7 +6,7 @@ title: Lab Members
 {% include figure.html image="https://huffordlab.github.io/pictures/Lab_maize.jpg" caption="Hufford Lab taking on the Pumpkinville Corn Maze" position="center" %}
 
 
-<p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Hufford_photo_shadow.png" align="right"><font size="3"><b>Matthew Hufford, Associate and Cassling Family Professor</b>: <br>
+<p style="line-height:1.2"><img src="https://huffordlab.github.io/pictures/Hufford_photo_shadow.png" align="right" style=width:156.6px;height:196.8px;><font size="3"><b>Matthew Hufford, Associate and Cassling Family Professor</b>: <br>
 Matt joined the faculty of the Ecology, Evolution, & Organismal Biology Department at Iowa State University in Fall of 2013. Prior to this, Matt worked as a postdoctoral scholar with Jeff Ross-Ibarra at the University of California, Davis and completed his graduate training, also at UC Davis, under the instruction of Paul Gepts. Matt is a <i>bona fide</i> maize geek, is fascinated by crop evolution and ecology, and has a nasty marathoning habit.</font></p>
 
 
