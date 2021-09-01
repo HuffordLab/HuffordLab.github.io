@@ -9,6 +9,13 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>September 3rd, 2021</b><br />
+Jiang <i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1038/s41559-021-01523-y">Concerted genomic and epigenomic changes accompany stabilization of <i>Arabidopsis</i> allopolyploids.</a>
+
+<b>August 27th, 2021</b><br />
+Huang <i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1186/s13059-021-02448-2">Megabase-scale presence-absence variation with <i>Tripsacum</i> origin was under selection during maize domestication and adaptation</a>
 
 <b>April 23rd, 2021</b><br />
 McLean-Rodríguez <i>et al.</i> 2021<br />
