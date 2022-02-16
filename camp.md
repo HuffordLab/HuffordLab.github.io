@@ -5,9 +5,23 @@ feature_text: |
   ## <span style="color:white">C.A.M.P.</span>
 ---
 
-C.A.M.P. is a journal club where we end our week with some libations and erudite discussion. Each Friday, the Hufford Lab and “camp”adres convene at <a href="https://www.facebook.com/Stomping-Grounds-107335579324901/">Stomping Grounds</a> @ 4:00pm for discussion of articles that attract our fancy. No tents or flashlights required.
+C.A.M.P. is a journal club where we end our week with some libations and erudite discussion. Each Friday, the Hufford Lab and “camp”adres convene at The Hufford Café @ 4:00pm for discussion of articles that attract our fancy. No tents or flashlights required.
 
 Papers by date they are discussed:
+
+<b>February 11th, 2022</b><br />
+Zwir <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41380-018-0263-6">Uncovering the complex genetics of human character.</a>
+
+<b>February 28th, 2022</b><br />
+Smith <i>et al.</i> 2014<br />
+<a href="https://doi.org/10.1038/srep05559">Genomic methylation patterns in archaeological barley show de-methylation as a time-dependent diagenetic process.</a><br />
+Smith<i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1093/molbev/msx175">Small RNA Activity in Archeological Barley Shows Novel Germination Inhibition in Response to Environment.</a><br />
+
+<b>January 21st, 2022</b><br />
+Monroe <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1038/s41586-021-04269-6">Mutation bias reflects natural selection in <i>Arabidopsis thaliana</i>.</a>
 
 <b>September 3rd, 2021</b><br />
 Jiang <i>et al.</i> 2021<br />
