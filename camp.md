@@ -9,15 +9,35 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
-<b>February 11th, 2022</b><br />
-Zwir <i>et al.</i> 2020<br />
-<a href="https://doi.org/10.1038/s41380-018-0263-6">Uncovering the complex genetics of human character.</a>
+<b>September 16th, 2022</b><br />
+Gui <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1186/s13059-022-02742-7">A pan-<i>Zea</i> genome map for enhancing maize improvement.</a>
+
+<b>August 26th, 2022</b><br />
+Andersson, Leif & Purugganan, Michael 2022<br />
+<a href="https://doi.org/10.1073/pnas.2122150119">Molecular genetic variation of animals and plants under domestication.</a>
+
+<b>July 22nd, 2022</b><br />
+Li <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1038/s41477-022-01190-2">Genomic insights into historical improvement of heterotic groups during modern hybrid maize breeding.</a>
+
+<b>July 15th, 2022</b><br />
+Barnes <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1073/pnas.2100036119">An adaptive teosinte <i>mexicana</i> introgression modulates phosphatidylcholine levels and is associated with maize flowering time.</a>
+
+<b>June 24th, 2022</b><br />
+Zhou <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1038/s41586-022-04808-9">Graph pangenome captures missing heritability and empowers tomato breeding.</a>
 
 <b>February 28th, 2022</b><br />
 Smith <i>et al.</i> 2014<br />
 <a href="https://doi.org/10.1038/srep05559">Genomic methylation patterns in archaeological barley show de-methylation as a time-dependent diagenetic process.</a><br />
 Smith<i>et al.</i> 2017<br />
 <a href="https://doi.org/10.1093/molbev/msx175">Small RNA Activity in Archeological Barley Shows Novel Germination Inhibition in Response to Environment.</a><br />
+
+<b>February 11th, 2022</b><br />
+Zwir <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41380-018-0263-6">Uncovering the complex genetics of human character.</a>
 
 <b>January 21st, 2022</b><br />
 Monroe <i>et al.</i> 2022<br />
