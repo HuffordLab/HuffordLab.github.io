@@ -9,6 +9,18 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>October 21st, 2022</b><br />
+Lye <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1093/molbev/msac193">Deleterious Mutations and the Rare Allele Burden on Rice Gene Expression.</a>
+
+<b>October 7th, 2022</b><br />
+Chen <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1073/pnas.211297011">A conserved genetic architecture among populations of the maize progenitor, teosinte, was radically altered by domestication.</a>
+
+<b>September 23rd, 2022</b><br />
+Wapman <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1038/s41586-022-05222-x">Quantifying hierarchy and dynamics in US faculty hiring and retention.</a>
+
 <b>September 16th, 2022</b><br />
 Gui <i>et al.</i> 2022<br />
 <a href="https://doi.org/10.1186/s13059-022-02742-7">A pan-<i>Zea</i> genome map for enhancing maize improvement.</a>
