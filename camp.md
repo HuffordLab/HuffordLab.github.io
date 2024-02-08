@@ -9,6 +9,50 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>February 8th, 2024</b><br />
+Lin <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1126/science.adi6549">The history of Coast Salish “woolly dogs” revealed by ancient genomics and Indigenous Knowledge.</a>
+
+<b>October 26th, 2023</b><br />
+Booker <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1101/2023.10.18.562992">The genetic consequences of range expansion and its influence on diploidization in polyploids.</a>
+
+<b>August 31st, 2023</b><br />
+Boyle <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1016/j.cub.2023.07.057">Temporal matches between monarch butterfly and milkweed population changes over the past 25,000 years.</a>
+
+<b>July 20th, 2023</b><br />
+Wang <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1038/s41588-022-01283-w">De novo genome assembly and analyses of 12 founder inbred lines provide insights into maize heterosis.</a>
+
+<b>July 13th, 2023</b><br />
+Ma <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1038/s41467-023-39221-x">Global forest fragmentation change from 2000 to 2020.</a>
+
+<b>June 29th, 2023</b><br />
+Osmanski <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1126/science.abn1430">Insights into mammalian TE diversity through the curation of 248 genome assemblies.</a>
+
+<b>June 1st, 2023</b><br />
+Logsdon <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1101/2023.05.30.542849">The variation and evolution of complete human centromeres.</a>
+
+<b>May 12th, 2023</b><br />
+Wang <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.1038/s41477-023-01378-0">A complete gap-free diploid genome in <i>Saccharum</i> complex and the genomic footprints of evolution in the highly polyploid <i>Saccharum</i> genus.</a>
+
+<b>March 28th, 2023</b><br />
+Chen <i>et al.</i> 2023<br />
+<a href="https://doi.org/10.21203/rs.3.rs-2592230/v1">Archaeological Bolivian maize genomes suggest diversity is associated with Inca cultural expansion and environmental variation in South America.</a>
+
+<b>November 11th, 2022</b><br />
+Todd <i>et al.</i> 2022<br />
+<a href="https://doi.org/10.1126/science.abo3503">The genomic history and global expansion of domestic donkeys.</a>
+
+<b>November 4th, 2022</b><br />
+Grzybowski <i>et al.</i> 2022<br />
+<a href="http://dx.doi.org/10.1111/tpj.16123">A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity.</a>
+
 <b>October 21st, 2022</b><br />
 Lye <i>et al.</i> 2022<br />
 <a href="https://doi.org/10.1093/molbev/msac193">Deleterious Mutations and the Rare Allele Burden on Rice Gene Expression.</a>
