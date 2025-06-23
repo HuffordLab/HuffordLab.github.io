@@ -38,7 +38,7 @@ Chase is an undergraduate majoring in Agronomy and is also considering minoring 
 <b><a href="https://www.linkedin.com/in/kathryn-kananen-85352b109">Kathryn Kananen</a></b>, Graduate Student at Cranfield University <br>
 <b><a href="https://www.linkedin.com/in/kelsey-bryant-8b468112a">Kelsey Bryant</a></b>, Scientist at Integrated DNA Technologies<br>
 <b><a href="http://www.theburkelab.org/publications/">Garrett Janzen</a></b>, Postdoctoral Scholar at the University of Georgia <br>
-<b>David Hufnagel</b>, Bioinformatician at USDA-NADC<br>
+<b><a href="https://scholar.google.com/citations?user=v5DdXM4AAAAJ&hl">David Hufnagel</a></b>, Bioinformatician at USDA-NADC<br>
 <b><a href="http://agis.caas.cn/en/index.htm">Li Wang</a></b>, Faculty Member at the CAAS Agricultural Genomics Institute in Shenzhen, China<br></font>
 <br>
 
