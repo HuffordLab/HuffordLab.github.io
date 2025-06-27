@@ -9,6 +9,55 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>July 11th, 2025</b><br />
+Hu <i>et al.</i> 2017<br />
+<a href="https://doi.org/10.1093/gbe/evw280">Evolutionary Conservation and Divergence of Gene Coexpression Networks in Gossypium (Cotton) Seeds.</a>
+
+
+<b>June 27th, 2025</b><br />
+Garg <i>et al.</i> 2024<br />
+<a href="https://doi.org/10.1038/s41588-024-01830-7">Unlocking plant genetics with telomere-to-telomere genome assemblies.</a>
+
+
+<b>June 20th, 2025</b><br />
+Blumer <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1126/science.adr9961">Introgression dynamics of sex-linked chromosomal inversions shape the Malawi cichlid radiation.</a>
+
+
+<b>June 13th, 2025</b><br />
+Rippe <i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1111/mec.15931">Environmental specialization and cryptic genetic divergence in two massive coral species from the Florida Keys Reef Tract.</a>
+
+
+<b>May 30th, 2025</b><br />
+Feng <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1038/s41586-025-08891-6">Genomic and genetic insights into Mendel's pea genes.</a>
+
+
+<b>May 9th, 2025</b><br />
+Rottenberg <i>et al.</i> 2024<br />
+<a href="https://doi.org/10.1016/j.tig.2024.05.004">Viral cis-regulatory elements as sensors of cellular states and environmental cues.</a>
+
+
+<b>April 25th, 2025</b><br />
+Hu <i>et al.</i> 2024<br />
+<a href="https://doi.org/10.1038/s41592-024-02525-x">Evaluation of large language models for discovery of gene set function.</a>
+
+
+<b>April 18th, 2025</b><br />
+Yoo <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1038/s41586-025-08816-3">Complete sequencing of ape genomes.</a>
+
+
+<b>April 11th, 2025</b><br />
+Bemmels <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1016/j.cub.2024.12.025">Population genomics reveals strong impacts of genetic drift without purging and guides conservation of bull and giant kelp.</a>
+
+
+<b>April 4th, 2025</b><br />
+Salem <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1038/s41586-025-08793-7">Ancient DNA from the Green Sahara reveals ancestral North African lineage.</a>
+
 <b>February 8th, 2024</b><br />
 Lin <i>et al.</i> 2023<br />
 <a href="https://doi.org/10.1126/science.adi6549">The history of Coast Salish “woolly dogs” revealed by ancient genomics and Indigenous Knowledge.</a>
