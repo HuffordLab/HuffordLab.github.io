@@ -9,6 +9,14 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>September 3rd, 2025</b><br />
+Wang <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1038/s41586-025-09251-0">A single-cell multi-omics atlas of rice.</a>
+
+<b>July 18th, 2025</b><br />
+Romero <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1016/j.tree.2024.12.007">‘Domesticability’: were some species predisposed for domestication?.</a>
+
 <b>July 11th, 2025</b><br />
 Hu <i>et al.</i> 2017<br />
 <a href="https://doi.org/10.1093/gbe/evw280">Evolutionary Conservation and Divergence of Gene Coexpression Networks in Gossypium (Cotton) Seeds.</a>
