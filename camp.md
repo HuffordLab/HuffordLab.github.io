@@ -9,13 +9,36 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>October 8th, 2025</b><br />
+Liang <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1093/molbev/msaf088">Pan-Genome Analysis Reveals Local Adaptation to Climate Driven by Introgression in Oak Species.</a>
+
+<b>Octiber 1st, 2025</b><br />
+Liu <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1016/j.csbj.2019.11.006">Computational approaches for effective CRISPR guide RNA design and
+evaluation.</a>
+
+<b>September 24th, 2025</b><br />
+Scott <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1038/s41586-025-09251-0">Multiple Autopolyploid <i>Arabidopsis lyrata</i>i> Populations 
+Stabilized by Long-Range Adaptive Introgression Across Eurasia.</a>
+
+<b>September 17th, 2025</b><br />
+Zhang <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1016/j.cell.2025.06.034">Ancient hybridization underlies tuberization and
+radiation of the potato lineage.</a>
+
+<b>September 10th, 2025</b><br />
+Ortiz <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1111/mec.17730">Adaptive Genetic Differentiation Between Spatially Proximate Annual and Perennial Life History Types of a Marine Foundation Species.</a>
+
 <b>September 3rd, 2025</b><br />
 Wang <i>et al.</i> 2025<br />
 <a href="https://doi.org/10.1038/s41586-025-09251-0">A single-cell multi-omics atlas of rice.</a>
 
 <b>July 18th, 2025</b><br />
 Romero <i>et al.</i> 2025<br />
-<a href="https://doi.org/10.1016/j.tree.2024.12.007">‘Domesticability’: were some species predisposed for domestication?.</a>
+<a href="https://doi.org/10.1016/j.tree.2024.12.007">‘Domesticability’: were some species predisposed for domestication?</a>
 
 <b>July 11th, 2025</b><br />
 Hu <i>et al.</i> 2017<br />
