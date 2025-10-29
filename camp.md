@@ -14,11 +14,11 @@ Bao <i>et al.</i> 2025<br />
 <a href="https://doi.org/10.1017/qpb.2025.10028">Complexity welcome: Pangenome graphs for comprehensive population genomics.</a>
 
 <b>October 29th, 2025</b><br />
-<i>k</i>-mer Introduction:
-Garsmeur <i>et al.</i> 2025<br />
+<b><i>k</i>-mer Introduction:</b><br />
+<b>Garsmeur <i>et al.</i> 2025<br />
 <a href="https://www.genome.org/cgi/doi/10.1101/gr.279452.124"><i>k</i>-mer approaches for biodiversity genomics.</a>
-Paper:
-Garsmeur <i>et al.</i> 2025<br />
+<b>Paper:</b><br />
+<b>Garsmeur <i>et al.</i> 2025</b><br />
 <a href="https://doi.org/10.1016/j.cell.2025.09.017">The genomic footprints of wild <i>Saccharum</i> species trace domestication, diversification, and modern breeding of sugarcane.</a>
 
 <b>October 8th, 2025</b><br />
