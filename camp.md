@@ -9,6 +9,18 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+<b>November 5th, 2025</b><br />
+Bao <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1017/qpb.2025.10028">Complexity welcome: Pangenome graphs for comprehensive population genomics.</a>
+
+<b>October 29th, 2025</b><br />
+<i>k</i>-mer Introduction:
+Garsmeur <i>et al.</i> 2025<br />
+<a href="https://www.genome.org/cgi/doi/10.1101/gr.279452.124"><i>k</i>-mer approaches for biodiversity genomics.</a>
+Paper:
+Garsmeur <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1016/j.cell.2025.09.017">The genomic footprints of wild <i>Saccharum</i> species trace domestication, diversification, and modern breeding of sugarcane.</a>
+
 <b>October 8th, 2025</b><br />
 Liang <i>et al.</i> 2025<br />
 <a href="https://doi.org/10.1093/molbev/msaf088">Pan-Genome Analysis Reveals Local Adaptation to Climate Driven by Introgression in Oak Species.</a>
@@ -20,7 +32,7 @@ evaluation.</a>
 
 <b>September 24th, 2025</b><br />
 Scott <i>et al.</i> 2025<br />
-<a href="https://doi.org/10.1038/s41586-025-09251-0">Multiple Autopolyploid <i>Arabidopsis lyrata</i>i> Populations 
+<a href="https://doi.org/10.1038/s41586-025-09251-0">Multiple Autopolyploid <i>Arabidopsis lyrata</i> Populations 
 Stabilized by Long-Range Adaptive Introgression Across Eurasia.</a>
 
 <b>September 17th, 2025</b><br />
