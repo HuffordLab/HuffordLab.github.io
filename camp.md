@@ -9,6 +9,33 @@ C.A.M.P. is a journal club where we end our week with some libations and erudite
 
 Papers by date they are discussed:
 
+
+<b>December 17th, 2025</b><br />
+Cheng <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1038/s41477-025-02088-5">Genome analyses and breeding of polyploid crops.</a>
+
+
+<b>December 10th, 2025</b><br />
+Bao <i>et al.</i> 2025<br />
+<a href="https://runt-of-the-web.com/wordpress/wp-content/uploads/2016/07/sloth.jpg">Coming Soon</a>
+
+
+<b>December 3rd, 2025</b><br />
+Bao <i>et al.</i> 2025<br />
+<a href="https://runt-of-the-web.com/wordpress/wp-content/uploads/2016/07/sloth.jpg">Coming Soon</a>
+
+<b>November 26th, 2025</b><br />
+Scull <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.3390/f16091491">Interspecific Hybridization in <i>Populus L.</i> and Its Implications for the Ecology and Management of Riparian Ecosystems in the Southwestern USA.</a>
+
+<b>November 19th, 2025</b><br />
+Imada <i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1101/gr.254656.119">Recounting the FANTOM CAGE-Associated Transcriptome.</a>
+
+<b>November 12th, 2025</b><br />
+Hellwig <i>et al.</i> 2025<br />
+<a href="https://doi.org/10.1101/2025.08.11.669716">Convergent life-history evolution in <i>Hordeum</i>: Phylogenomic insights into climatic niche variation and functional genetic differentiation among annual and perennial wild relatives of barley.</a>
+
 <b>November 5th, 2025</b><br />
 Bao <i>et al.</i> 2025<br />
 <a href="https://doi.org/10.1017/qpb.2025.10028">Complexity welcome: Pangenome graphs for comprehensive population genomics.</a>
@@ -32,7 +59,7 @@ evaluation.</a>
 
 <b>September 24th, 2025</b><br />
 Scott <i>et al.</i> 2025<br />
-<a href="https://doi.org/10.1038/s41586-025-09251-0">Multiple Autopolyploid <i>Arabidopsis lyrata</i> Populations 
+<a href="https://doi.org/10.1093/molbev/msaf153">Multiple Autopolyploid <i>Arabidopsis lyrata</i> Populations 
 Stabilized by Long-Range Adaptive Introgression Across Eurasia.</a>
 
 <b>September 17th, 2025</b><br />
