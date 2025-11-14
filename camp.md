@@ -16,12 +16,12 @@ Cheng <i>et al.</i> 2025<br />
 
 
 <b>December 10th, 2025</b><br />
-Bao <i>et al.</i> 2025<br />
+TBD <i>et al.</i> 2025<br />
 <a href="https://runt-of-the-web.com/wordpress/wp-content/uploads/2016/07/sloth.jpg">Coming Soon</a>
 
 
 <b>December 3rd, 2025</b><br />
-Bao <i>et al.</i> 2025<br />
+TBD <i>et al.</i> 2025<br />
 <a href="https://runt-of-the-web.com/wordpress/wp-content/uploads/2016/07/sloth.jpg">Coming Soon</a>
 
 <b>November 26th, 2025</b><br />
