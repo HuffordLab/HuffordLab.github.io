@@ -2,19 +2,40 @@
 layout: page
 feature_image: "https://huffordlab.github.io/pictures/maize.jpg"
 feature_text: |
-  ## <span style="color:white">Publications</span>
+  ## <span style="color:white">Publications</span>
 ---
 
 <B><font size = "5" color="black">In Review:</font></b><br />
 
+<b>S.J. Snodgrass</b>, <b>M.R. Woodhouse</b>, <b>A.S. Seetharam</b>, M.C. Stitzer, B. Liu, <b>M.B. Hufford</b>. Maize and wild relatives show distinct patterns of gene loss following polyploidy. [<a href="https://doi.org/10.1101/2024.12.24.630189">preprint</a>]<br />
+
 Stitzer, M.C., <b>A.S. Seetharam</b>, A. Scheben, S.K. Hsu, <b>A.J. Schulz</b>, T.M. AuBuchon-Elder, M. El-Walid, T.H. Ferebee, C.O. Hale, T. La, Z.Y. Liu, S.J. McMorrow, P. Minx, A.R. Phillips, <b>M.L. Syring</b>, T. Wrightsman, J. Zhai, R. Pasquet, C.A. McAllister, S.T. Malcomber, P. Traiperm, D.J. Layton, J. Zhong, D.E. Costich, R.K. Dawe, K. Fengler, C. Harris, Z. Irelan, V. Llaca, P. Parakkal, G. Zastrow-Hayes, <b>M.R. Woodhouse</b>, E.K.S. Cannon, J.L. Portwood II, C.M. Andorf, P.S. Albert, J.A. Birchler, A. Siepel, J. Ross-Ibarra, M.C. Romay, E.A. Kellogg, E.S. Buckler, <b>M.B. Hufford</b>. Extensive genome evolution distinguishes maize within a stable tribe of grasses. [<a href="https://doi.org/10.1101/2025.01.22.633974">preprint</a>]<br />
+
+Wrightsman, T., T.H. Ferebee, M.C. Romay, <b>A.S. Seetharam</b>, T. AuBuchon-Elder, A.R. Phillips, <b>M.L. Syring</b>, <b>M.B. Hufford</b>, E.A. Kellogg, E.S. Buckler. Current genomic deep learning architectures generalize across grass species but not alleles. [<a href="https://doi.org/10.1101/2024.04.11.589024">preprint</a>]<br />
+
+<b>A.J. Schulz</b>, <b>D.E. Hufnagel</b>, P. Gepts, <b>M.B. Hufford</b>. Inbreeding depression leads to reduced fitness in declining populations of wild maize. [<a href="https://doi.org/10.1101/2023.11.20.567972">preprint</a>]<br />
 
 <b>D.E. Hufnagel, K. Kananen</b>, J.C. Glaubitz, J. de Jesus Sanchez-Gonzalez, J.F. Doebley, <b>M.B. Hufford</b>. Evidence for Multiple Teosinte Hybrid Zones in Central Mexico. [<a href="https://doi.org/10.1101/2021.02.11.430632">preprint</a>]<br />
 
 Gates, D.J., D. Runcie, <b>G.M. Janzen</b>, A. Romero-Navarro, M. Willcox, K. Sonder, <b>S.J. Snodgrass</b>, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, <b>M.B. Hufford</b>, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [<a href="https://doi.org/10.1101/706739">preprint</a>]<br />
 
+<hr>
 
 <B><font size = "5" color="black">Published Manuscripts:</font></b><br />
+
+Smith, S.M., U.K. Bhatta, <b>M.R. Woodhouse</b>, <b>M.B. Hufford</b>. 2026. <a href="https://doi.org/10.1146/annurev-phyto-011325-102141">New Insights into Genomic Variations and Mutational Events Associated with Plant–Pathogen Interactions</a>. <i>Annual Review of Phytopathology</i> 64: 331-354.<br />
+
+Hale, C.O., S.K. Hsu, J. Zhai, <b>A.J. Schulz</b>, T. AuBuchon-Elder, G. Costa-Neto, A. Gelfond, M.Z. El-Walid, <b>M.B. Hufford</b>, E.A. Kellogg, T. La, A.P. Marand, <b>A.S. Seetharam</b>, A. Scheben, M.C. Stitzer, T. Wrightsman, M.C. Romay, E.S. Buckler. 2026. <a href="https://doi.org/10.1093/molbev/msaf324">Widespread turnover of a conserved cis-regulatory code across 589 grass species</a>. <i>Molecular Biology and Evolution</i> 43(1): msaf324.<br />
+
+<b>A.J. Schulz</b>, J. Zhai, T. AuBuchon-Elder, C.M. Andorf, M.Z. El-Walid, T.H. Ferebee, E.H. Gilmore, <b>M.B. Hufford</b>, L.C. Johnson, E.A. Kellogg, T. La, E. Long, S.J. McMorrow, Z.R. Miller, J.L. Portwood II, M.C. Romay, <b>A.S. Seetharam</b>, M.C. Stitzer, <b>M.R. Woodhouse</b>, T. Wrightsman, E.S. Buckler, B. Monier, S.K. Hsu. 2025. <a href="https://doi.org/10.1111/tpj.70483">Fishing for a reelGene: evaluating gene models with evolution and machine learning</a>. <i>The Plant Journal</i> 123(6): e70483.<br />
+
+Engelhorn, J., <b>S.J. Snodgrass</b>, A. Kok, <b>A.S. Seetharam</b>, M. Schneider, T. Kiwit, A. Singh, M. Banf, D.T.H. Doan, M. Khaipho-Burch, D.E. Runcie, V.A. Sánchez-Camargo, R. Bader, J.V. Torres-Rodriguez, G. Sun, M. Stam, F. Fiorani, S. Beier, J.C. Schnable, H.W. Bass, <b>M.B. Hufford</b>, B. Stich, W.B. Frommer, J. Ross-Ibarra, T. Hartwig. 2025. <a href="https://doi.org/10.1038/s41588-025-02246-7">Genetic variation at transcription factor binding sites largely explains phenotypic heritability in maize</a>. <i>Nature Genetics</i> 57(9): 2313-2322.<br />
+
+Cahn, J., M. Regulski, J. Lynn, E. Ernst, C. de Santis Alves, S. Ramakrishnan, K. Chougule, S. Wei, Z. Lu, X. Xu, U. Ramu, J. Drenkow, C. Danyko, M. Kramer, <b>A.S. Seetharam</b>, <b>M.B. Hufford</b>, W.R. McCombie, D. Ware, D. Jackson, M.C. Schatz, T.R. Gingeras, R.A. Martienssen. 2025. <a href="https://doi.org/10.1038/s41467-025-62179-x">Author Correction: MaizeCODE reveals bi-directionally expressed enhancers that harbor molecular signatures of maize domestication</a>. <i>Nature Communications</i> 16(1): 6790.<br />
+
+Ojeda-Rivera, J.O., A.C. Barnes, E.A. Ainsworth, R. Angelovici, B. Basso, L.J. Brindisi, M.D. Brooks, W. Busch, <b>G.L. Buttelmann</b>, M.J. Castellano, J. Chen, D.E. Costich, N. de Leon, B.D. Emmett, D. Ertl, S.L. Fitzsimmons, S.A. Flint-Garcia, M.A. Gore, K. Guan, C.O. Hale, S. Herr, C.N. Hirsch, D.H. Holding, J.B. Holland, S.K. Hsu, J. Hua, <b>M.B. Hufford</b>, S.M. Kaeppler, E.N. Leary, Z.Y. Liu, A.A. Mahama, T.J. McCubbin, C.D. Messina, T.P. Michael, S.J. Miller, S.C. Murray, S. Okumoto, E. Oren, A.N. Park, M.A. Piñeros, N.A. Pugh, V. Raboy, R. Rellán-Álvarez, M.C. Romay, T. Rooney, R.L. Roston, R.J.H. Sawers, J.C. Schnable, <b>A.J. Schulz</b>, M.P. Scott, N.M. Springer, J.D. Washburn, M.A. Zambrano, J. Zhai, J. Zou, E.S. Buckler. 2025. <a href="https://doi.org/10.1093/plcell/koaf139">Designing a nitrogen-efficient cold-tolerant maize for modern agricultural systems</a>. <i>The Plant Cell</i> 37(7): koaf139.<br />
+
+Li, F., D.J. Gates, E.S. Buckler, <b>M.B. Hufford</b>, <b>G.M. Janzen</b>, R. Rellán-Álvarez, F. Rodríguez-Zapata, J.A. Romero Navarro, R.J.H. Sawers, <b>S.J. Snodgrass</b>, K. Sonder, M.C. Willcox, S.J. Hearne, J. Ross-Ibarra, D.E. Runcie. 2025. <a href="https://doi.org/10.1371/journal.pgen.1011714">Environmental data provide marginal benefit for predicting climate adaptation</a>. <i>PLoS Genetics</i> 21(6): e1011714.<br />
 
 Andorf, C.M., J. Ross-Ibarra, <b>A.S. Seetharam</b>, <b>M.B. Hufford</b>, <b>M.R. Woodhouse</b>. 2025. <a href="https://doi.org/10.1093/g3journal/jkae281">A unified VCF dataset from nearly 1,500 diverse maize accessions and resources to explore the genomic landscape of maize</a>. <i>G3 (Bethesda)</i> 15(2): jkae281.<br />
 
@@ -46,8 +67,7 @@ Chamberlain-Irwin, H.N., <b>M.B. Hufford</b>. 2022. <a href="https://doi.org/10.
 
 Perez-Limón, S., M. Li, G.C. Cintora-Martinez, M.R. Aguilar-Rangel, M.N. Salazar-Vidal, E. González-Segovia, K. Blöcher-Juárez, A. Guerrero-Zavala, B. Barrales-Gamez, J. Carcaño-Macias, D.E. Costich, J. Nieto-Sotelo, O. Martinez de la Vega, J. Simpson, <b>M.B. Hufford</b>, J. Ross-Ibarra, S. Flint-Garcia, L. Diaz-Garcia, R. Rellán-Álvarez, R.J.H. Sawers. 2022. <a href="https://doi.org/10.1093/g3journal/jkab447">A B73×Palomero Toluqueño mapping population reveals local adaptation in Mexican highland maize</a>. <i>G3 (Bethesda)</i> 12(3): jkab447.<br />
 
-<b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, <b>M.R. Woodhouse</b>, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, <b>Q. Jiang</b>, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. 2021. <a href="https://www.science.org/doi/full/10.1126/science.abg5289">
-<i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes</a>. <i>Science</i> 373: 655-662<br />
+<b>M.B. Hufford</b>, <b>A.S. Seetharam</b>, <b>M.R. Woodhouse</b>, K.M. Chougule, <b>S. Ou</b>, J. Liu, W.A. Ricci, T. Guo, A. Olson, Y. Qiu, R.D. Coletta, S. Tittes, A.I. Hudson, A.P. Marand, S. Wei, Z. Lu, B. Wang, M.K. Tello-Ruiz, R.D. Piri, N. Wang, D. Kim, Y. Zeng, C.H. O'Connor, X. Li, A.M. Gilbert, E. Baggs, K.V. Krasileva, J.L. Portwood II, E.K.S. Cannon, C.M. Andorf, <b>N. Manchanda</b>, <b>S.J. Snodgrass</b>, <b>D.E. Hufnagel</b>, <b>Q. Jiang</b>, <b>S. Pedersen</b>, <b>M.L. Syring</b>, D.A. Kudrna, V. Llaca, K. Fengler, R.J. Schmitz, J. Ross-Ibarra, J. Yu, J.I. Gent, C.N. Hirsch, D. Ware, R.K. Dawe. 2021. <a href="https://www.science.org/doi/full/10.1126/science.abg5289"><i>De novo</i> assembly, annotation, and comparative analysis of 26 diverse maize genomes</a>. <i>Science</i> 373: 655-662<br />
 
 Song, B., E.S. Buckler, H. Wang, Y. Wu, E. Rees, E.A. Kellogg, D.J. Gates, M. Khaipho-Burch, P.J. Bradbury, J. Ross-Ibarra, <b>M.B. Hufford</b>, M.C. Romay. 2021. <a href="https://doi.org/10.1101/gr.266528.120">Conserved non-coding sequences provide insights into regulatory sequence and loss of gene expression in maize</a>. <i>Genome Research</i> 31(7): 1245-1257.<br />
 
